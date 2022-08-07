@@ -1,0 +1,58 @@
+{
+  "unversionedId": "BIGQUERY3",
+  "id": "BIGQUERY3",
+  "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+  "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
+  "source": "@site/docs/Bigquery_pandas.md",
+  "sourceDirName": ".",
+  "slug": "/BIGQUERY3",
+  "permalink": "/docs/BIGQUERY3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Bigquery_pandas.md",
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BIGQUERY3",
+    "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "linux"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Style Guide",
+    "permalink": "/docs/BIGQUERY2"
+  },
+  "next": {
+    "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
+    "permalink": "/docs/GoogleAppEngine"
+  }
+}

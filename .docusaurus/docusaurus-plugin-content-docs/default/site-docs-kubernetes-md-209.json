@@ -1,0 +1,58 @@
+{
+  "unversionedId": "Kubernetes",
+  "id": "Kubernetes",
+  "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+  "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+  "source": "@site/docs/Kubernetes.md",
+  "sourceDirName": ".",
+  "slug": "/Kubernetes",
+  "permalink": "/docs/Kubernetes",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Kubernetes.md",
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Kubernetes",
+    "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "linux"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "存储文件然后共享-谷歌云快速入门(二)",
+    "permalink": "/docs/GoogleCloudStorage"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML4"
+  }
+}

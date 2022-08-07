@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5055],{97516:e=>{e.exports=JSON.parse('{"label":"tf_serving","permalink":"/blog/tags/tf-serving","allTagsPath":"/blog/tags","count":1}')}}]);

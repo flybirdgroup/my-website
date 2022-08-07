@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[416],{14519:e=>{e.exports=JSON.parse('{"label":"compute engine","permalink":"/blog/tags/compute-engine","allTagsPath":"/blog/tags","count":3}')}}]);

@@ -1,0 +1,49 @@
+{
+  "permalink": "/blog/2020/4/30/创建jenkins在GKE",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-30-创建jenkins在GKE.md",
+  "source": "@site/blog/2020-4-30-创建jenkins在GKE.md",
+  "title": "设立Jenkins在GKE上",
+  "description": "设置zone和下载代码",
+  "date": "2020-04-30T00:00:00.000Z",
+  "formattedDate": "April 30, 2020",
+  "tags": [
+    {
+      "label": "Jenkins",
+      "permalink": "/blog/tags/jenkins"
+    },
+    {
+      "label": "GKE",
+      "permalink": "/blog/tags/gke"
+    }
+  ],
+  "readingTime": 1.91,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "jenkins",
+    "title": "设立Jenkins在GKE上",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "Jenkins",
+      "GKE"
+    ]
+  },
+  "prevItem": {
+    "title": "python读取bigquery",
+    "permalink": "/blog/2020/4/30/python读取Biggquery"
+  },
+  "nextItem": {
+    "title": "Bigquery常用命令",
+    "permalink": "/blog/2020/4/29/bq_常用命令"
+  }
+}

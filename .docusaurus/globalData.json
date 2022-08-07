@@ -11,8 +11,113 @@
           "mainDocId": "intro",
           "docs": [
             {
+              "id": "BIGQUERY",
+              "path": "/docs/BIGQUERY",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BIGQUERY2",
+              "path": "/docs/BIGQUERY2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "BIGQUERY3",
+              "path": "/docs/BIGQUERY3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "createlinux",
+              "path": "/docs/createlinux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc1",
+              "path": "/docs/doc1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc2",
+              "path": "/docs/doc2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "doc3",
+              "path": "/docs/doc3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "docker",
+              "path": "/docs/docker",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dockerhub",
+              "path": "/docs/dockerhub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "dockerhub_2",
+              "path": "/docs/dockerhub_2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GCP_shell_python",
+              "path": "/docs/GCP_shell_python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GoogleAppEngine",
+              "path": "/docs/GoogleAppEngine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "GoogleCloudStorage",
+              "path": "/docs/GoogleCloudStorage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Kubernetes",
+              "path": "/docs/Kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "mdx",
+              "path": "/docs/mdx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ML1",
+              "path": "/docs/ML1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ML2",
+              "path": "/docs/ML2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ML3",
+              "path": "/docs/ML3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ML4",
+              "path": "/docs/ML4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "projects",
+              "path": "/docs/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "TensorFlow",
+              "path": "/docs/TensorFlow",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -53,6 +158,11 @@
             {
               "id": "tutorial-extras/translate-your-site",
               "path": "/docs/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "VisionAPI",
+              "path": "/docs/VisionAPI",
               "sidebar": "tutorialSidebar"
             },
             {

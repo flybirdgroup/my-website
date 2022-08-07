@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/2020/3/31/douban",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-3-31-douban.md",
+  "source": "@site/blog/2020-3-31-douban.md",
+  "title": "快速按照工具包",
+  "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+  "date": "2020-03-31T00:00:00.000Z",
+  "formattedDate": "March 31, 2020",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    },
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/blog/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/blog/tags/docker"
+    }
+  ],
+  "readingTime": 0.29,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI engine @ Facebook",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "douban",
+    "title": "快速按照工具包",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "python",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "prevItem": {
+    "title": "轻松上传超过100M的文件至GitHub",
+    "permalink": "/blog/2020/4/02/git_big_file copy"
+  },
+  "nextItem": {
+    "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+    "permalink": "/blog/2020/3/30/BigQuery Storage API"
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ML3",
+  "id": "ML3",
+  "title": "机器学习-- 3 梯度下降法",
+  "description": "官方文档信息",
+  "source": "@site/docs/ML_梯度下降法+学习速率+随机梯度下降.md",
+  "sourceDirName": ".",
+  "slug": "/ML3",
+  "permalink": "/docs/ML3",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ML_梯度下降法+学习速率+随机梯度下降.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ML3",
+    "title": "机器学习-- 3 梯度下降法",
+    "sidebar_label": "Style Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML4"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML1"
+  }
+}

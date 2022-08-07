@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9736],{18568:a=>{a.exports=JSON.parse('{"label":"load-balance","permalink":"/blog/tags/load-balance","allTagsPath":"/blog/tags","count":1}')}}]);

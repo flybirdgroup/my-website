@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/2020/3/28/python",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-3-28-python.md",
+  "source": "@site/blog/2020-3-28-python.md",
+  "title": "python脚本基础(1)-python中os的常用方法",
+  "description": "1.os模块：os模块在python中包含普遍的操作系统功能，下面列出了一些在os模块中比较有用的部分。",
+  "date": "2020-03-28T00:00:00.000Z",
+  "formattedDate": "March 28, 2020",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    },
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/blog/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/blog/tags/docker"
+    }
+  ],
+  "readingTime": 3.88,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI engine @ Facebook",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "python",
+    "title": "python脚本基础(1)-python中os的常用方法",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "python",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "prevItem": {
+    "title": "mysql基本命令",
+    "permalink": "/blog/2020/3/28/mysql"
+  },
+  "nextItem": {
+    "title": "从Dockerhub拉取镜像并且使用命令运行",
+    "permalink": "/blog/2020/3/27/dockerhub_2"
+  }
+}

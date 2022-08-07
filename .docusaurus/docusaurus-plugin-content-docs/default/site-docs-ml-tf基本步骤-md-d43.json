@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ML4",
+  "id": "ML4",
+  "title": "机器学习-- 4 TF基本步骤",
+  "description": "官方文档信息",
+  "source": "@site/docs/ML_TF基本步骤.md",
+  "sourceDirName": ".",
+  "slug": "/ML4",
+  "permalink": "/docs/ML4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ML_TF基本步骤.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ML4",
+    "title": "机器学习-- 4 TF基本步骤",
+    "sidebar_label": "Style Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+    "permalink": "/docs/Kubernetes"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML3"
+  }
+}

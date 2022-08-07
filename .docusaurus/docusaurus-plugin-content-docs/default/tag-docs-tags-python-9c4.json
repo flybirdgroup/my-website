@@ -1,0 +1,14 @@
+{
+  "label": "python",
+  "permalink": "/docs/tags/python",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "GCP_shell_python",
+      "title": "谷歌安装GCP_shell_python命令",
+      "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
+      "permalink": "/docs/GCP_shell_python"
+    }
+  ]
+}

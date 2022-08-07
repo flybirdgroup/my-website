@@ -1,0 +1,28 @@
+{
+  "unversionedId": "ML1",
+  "id": "ML1",
+  "title": "机器学习-- 1 训练与损失",
+  "description": "官方文档信息",
+  "source": "@site/docs/ML_训练与损失.md",
+  "sourceDirName": ".",
+  "slug": "/ML1",
+  "permalink": "/docs/ML1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/ML_训练与损失.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ML1",
+    "title": "机器学习-- 1 训练与损失",
+    "sidebar_label": "Style Guide"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML3"
+  },
+  "next": {
+    "title": "Style Guide",
+    "permalink": "/docs/ML2"
+  }
+}

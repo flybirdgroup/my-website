@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/4/21/python读取avro的schema",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-21-python读取avro的schema.md",
+  "source": "@site/blog/2020-4-21-python读取avro的schema.md",
+  "title": "读取avro文件的schema",
+  "description": "首先安装包",
+  "date": "2020-04-21T00:00:00.000Z",
+  "formattedDate": "April 21, 2020",
+  "tags": [
+    {
+      "label": "dataproc",
+      "permalink": "/blog/tags/dataproc"
+    },
+    {
+      "label": "GCP",
+      "permalink": "/blog/tags/gcp"
+    },
+    {
+      "label": "avro",
+      "permalink": "/blog/tags/avro"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/blog/tags/bigquery"
+    }
+  ],
+  "readingTime": 0.35,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "avro",
+    "title": "读取avro文件的schema",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataproc",
+      "GCP",
+      "avro",
+      "bigquery"
+    ]
+  },
+  "prevItem": {
+    "title": "关于nginx和port知识总结",
+    "permalink": "/blog/2020/4/26/关于nginx和port知识总结"
+  },
+  "nextItem": {
+    "title": "把avro文件放到bigquery",
+    "permalink": "/blog/2020/4/21/把avro文件放到bigquery"
+  }
+}

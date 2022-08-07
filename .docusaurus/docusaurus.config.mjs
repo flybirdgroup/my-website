@@ -8,9 +8,10 @@ export default {
   "tagline": "Dinosaurs are cool",
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
-  "onBrokenLinks": "throw",
-  "onBrokenMarkdownLinks": "warn",
+  "onBrokenLinks": "ignore",
+  "onBrokenMarkdownLinks": "ignore",
   "favicon": "img/favicon.ico",
+  "noIndex": true,
   "organizationName": "facebook",
   "projectName": "docusaurus",
   "i18n": {
@@ -352,6 +353,5 @@ export default {
   "scripts": [],
   "stylesheets": [],
   "clientModules": [],
-  "titleDelimiter": "|",
-  "noIndex": false
+  "titleDelimiter": "|"
 };

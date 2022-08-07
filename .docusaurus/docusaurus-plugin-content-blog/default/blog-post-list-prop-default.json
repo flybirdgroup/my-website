@@ -10,12 +10,16 @@
       "permalink": "/blog/mdx-blog-post"
     },
     {
-      "title": "Long Blog Post",
-      "permalink": "/blog/long-blog-post"
+      "title": "通过Composer使用Airflow运行一个workflow",
+      "permalink": "/blog/2020/6/12/Airflow_Dataproc"
     },
     {
-      "title": "First Blog Post",
-      "permalink": "/blog/first-blog-post"
+      "title": "云上快速搭建WordPress网站",
+      "permalink": "/blog/2020/6/12/快速搭建wordpress网站"
+    },
+    {
+      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+      "permalink": "/blog/2020/5/1/Kubernetes"
     }
   ]
 }

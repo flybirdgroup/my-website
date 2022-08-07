@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/3/18/google_cloud",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-3-18-google_cloud.md",
+  "source": "@site/blog/2020-3-18-google_cloud.md",
+  "title": "使用Google Cloud SDK来配置Google App Engine",
+  "description": "Learn how to build deep learning in Google Cloud Platform Docusaurus 2 alpha.",
+  "date": "2020-03-18T00:00:00.000Z",
+  "formattedDate": "March 18, 2020",
+  "tags": [
+    {
+      "label": "google cloud",
+      "permalink": "/blog/tags/google-cloud"
+    },
+    {
+      "label": "SDK",
+      "permalink": "/blog/tags/sdk"
+    },
+    {
+      "label": "socket",
+      "permalink": "/blog/tags/socket"
+    },
+    {
+      "label": "google cloud init",
+      "permalink": "/blog/tags/google-cloud-init"
+    }
+  ],
+  "readingTime": 1.145,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI engine @ Facebook",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "google cloud",
+    "title": "使用Google Cloud SDK来配置Google App Engine",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "google cloud",
+      "SDK",
+      "socket",
+      "google cloud init"
+    ]
+  },
+  "prevItem": {
+    "title": "word2vec详解",
+    "permalink": "/blog/2020/03/18/word2vec"
+  },
+  "nextItem": {
+    "title": "textCNN卷积神经网络分类",
+    "permalink": "/blog/2020/3/18/textCNN"
+  }
+}

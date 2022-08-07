@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/4/27/_terraform",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-27_terraform.md",
+  "source": "@site/blog/2020-4-27_terraform.md",
+  "title": "使用terraform基本语法和创建vm",
+  "description": "我觉得terraform的基本语法就是字典对象式语法.",
+  "date": "2020-04-27T00:00:00.000Z",
+  "formattedDate": "April 27, 2020",
+  "tags": [
+    {
+      "label": "terraform",
+      "permalink": "/blog/tags/terraform"
+    },
+    {
+      "label": "gcp",
+      "permalink": "/blog/tags/gcp"
+    },
+    {
+      "label": "compute engine",
+      "permalink": "/blog/tags/compute-engine"
+    },
+    {
+      "label": "vm",
+      "permalink": "/blog/tags/vm"
+    }
+  ],
+  "readingTime": 9.965,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "terraform1",
+    "title": "使用terraform基本语法和创建vm",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "terraform",
+      "gcp",
+      "compute engine",
+      "vm"
+    ]
+  },
+  "prevItem": {
+    "title": "gsutil常用命令",
+    "permalink": "/blog/2020/4/29/_gsutil常用命令"
+  },
+  "nextItem": {
+    "title": "关于nginx和port知识总结",
+    "permalink": "/blog/2020/4/26/关于nginx和port知识总结"
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "unversionedId": "dockerhub",
+  "id": "dockerhub",
+  "title": "push镜像到自己的dockerhub",
+  "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+  "source": "@site/docs/2020-3-26-dockerhub.md",
+  "sourceDirName": ".",
+  "slug": "/dockerhub",
+  "permalink": "/docs/dockerhub",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2020-3-26-dockerhub.md",
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dockerhub",
+    "title": "push镜像到自己的dockerhub",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "从Dockerhub拉取镜像并且使用命令运行",
+    "permalink": "/docs/dockerhub_2"
+  }
+}

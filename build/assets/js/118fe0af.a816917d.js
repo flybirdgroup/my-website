@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[5579],{53681:e=>{e.exports=JSON.parse('{"label":"bigquery","permalink":"/blog/tags/bigquery","allTagsPath":"/blog/tags","count":5}')}}]);

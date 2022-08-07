@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/4/29/_gsutil常用命令",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-29_gsutil常用命令.md",
+  "source": "@site/blog/2020-4-29_gsutil常用命令.md",
+  "title": "gsutil常用命令",
+  "description": "gsutil命令快速入门",
+  "date": "2020-04-29T00:00:00.000Z",
+  "formattedDate": "April 29, 2020",
+  "tags": [
+    {
+      "label": "terraform",
+      "permalink": "/blog/tags/terraform"
+    },
+    {
+      "label": "gcp",
+      "permalink": "/blog/tags/gcp"
+    },
+    {
+      "label": "compute engine",
+      "permalink": "/blog/tags/compute-engine"
+    },
+    {
+      "label": "vm",
+      "permalink": "/blog/tags/vm"
+    }
+  ],
+  "readingTime": 1.12,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "gsutil",
+    "title": "gsutil常用命令",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "terraform",
+      "gcp",
+      "compute engine",
+      "vm"
+    ]
+  },
+  "prevItem": {
+    "title": "GCS 读写 by python",
+    "permalink": "/blog/2020/4/29/_GCS读写by python"
+  },
+  "nextItem": {
+    "title": "使用terraform基本语法和创建vm",
+    "permalink": "/blog/2020/4/27/_terraform"
+  }
+}

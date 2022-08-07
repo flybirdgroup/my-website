@@ -1,0 +1,54 @@
+{
+  "unversionedId": "projects",
+  "id": "projects",
+  "title": "人工智能项目分享",
+  "description": "NLP方向",
+  "source": "@site/docs/projects.md",
+  "sourceDirName": ".",
+  "slug": "/projects",
+  "permalink": "/docs/projects",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/projects.md",
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "projects",
+    "title": "人工智能项目分享",
+    "author": "招晓贤",
+    "author_title": "AI Engineer @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus",
+      "google cloud"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
+  },
+  "next": {
+    "title": "谷歌安装GCP_shell_python命令",
+    "permalink": "/docs/GCP_shell_python"
+  }
+}

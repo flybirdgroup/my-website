@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/4/11/dataflow-apache beam基本概念",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-11-dataflow-apache beam基本概念.md",
+  "source": "@site/blog/2020-4-11-dataflow-apache beam基本概念.md",
+  "title": "dataflow简单入门-apache beam 基本概念",
+  "description": "1 Pipeline 管道",
+  "date": "2020-04-11T00:00:00.000Z",
+  "formattedDate": "April 11, 2020",
+  "tags": [
+    {
+      "label": "dataflow",
+      "permalink": "/blog/tags/dataflow"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/blog/tags/bigquery"
+    },
+    {
+      "label": "subpub",
+      "permalink": "/blog/tags/subpub"
+    },
+    {
+      "label": "steaming",
+      "permalink": "/blog/tags/steaming"
+    }
+  ],
+  "readingTime": 3.46,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "dataflow4",
+    "title": "dataflow简单入门-apache beam 基本概念",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataflow",
+      "bigquery",
+      "subpub",
+      "steaming"
+    ]
+  },
+  "prevItem": {
+    "title": "谷歌常用命令",
+    "permalink": "/blog/2020/4/15/gcp_常用命令"
+  },
+  "nextItem": {
+    "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+    "permalink": "/blog/2020/4/11/dataflow创建作业"
+  }
+}

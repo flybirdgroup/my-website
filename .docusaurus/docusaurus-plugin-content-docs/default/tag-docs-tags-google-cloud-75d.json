@@ -1,0 +1,80 @@
+{
+  "label": "google cloud",
+  "permalink": "/docs/tags/google-cloud",
+  "allTagsPath": "/docs/tags",
+  "count": 12,
+  "items": [
+    {
+      "id": "dockerhub_2",
+      "title": "从Dockerhub拉取镜像并且使用命令运行",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "permalink": "/docs/dockerhub_2"
+    },
+    {
+      "id": "GoogleCloudStorage",
+      "title": "存储文件然后共享-谷歌云快速入门(二)",
+      "description": "link to 使用GKE(Google Kubernetes Engine)部署容器化应用 -谷歌云快速入门(三)",
+      "permalink": "/docs/GoogleCloudStorage"
+    },
+    {
+      "id": "VisionAPI",
+      "title": "对图片进行标签检测-谷歌云快速入门(五)",
+      "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
+      "permalink": "/docs/VisionAPI"
+    },
+    {
+      "id": "GCP_shell_python",
+      "title": "谷歌安装GCP_shell_python命令",
+      "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
+      "permalink": "/docs/GCP_shell_python"
+    },
+    {
+      "id": "projects",
+      "title": "人工智能项目分享",
+      "description": "NLP方向",
+      "permalink": "/docs/projects"
+    },
+    {
+      "id": "BIGQUERY3",
+      "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+      "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
+      "permalink": "/docs/BIGQUERY3"
+    },
+    {
+      "id": "Kubernetes",
+      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "permalink": "/docs/Kubernetes"
+    },
+    {
+      "id": "TensorFlow",
+      "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+      "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
+      "permalink": "/docs/TensorFlow"
+    },
+    {
+      "id": "GoogleAppEngine",
+      "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
+      "description": "构建一个显示一条简短消息的 App Engine 小应用。",
+      "permalink": "/docs/GoogleAppEngine"
+    },
+    {
+      "id": "docker",
+      "title": "Container Registry 快速入门快速入门",
+      "description": "使用 Cloud Shell 配置 gcloud 并运行一个容器映像。",
+      "permalink": "/docs/docker"
+    },
+    {
+      "id": "createlinux",
+      "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+      "description": "author: 招晓贤",
+      "permalink": "/docs/createlinux"
+    },
+    {
+      "id": "dockerhub",
+      "title": "push镜像到自己的dockerhub",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "permalink": "/docs/dockerhub"
+    }
+  ]
+}

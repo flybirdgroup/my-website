@@ -1,0 +1,59 @@
+{
+  "permalink": "/blog/2020/4/26/关于nginx和port知识总结",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-26关于nginx和port知识总结.md",
+  "source": "@site/blog/2020-4-26关于nginx和port知识总结.md",
+  "title": "关于nginx和port知识总结",
+  "description": "port是service服务的端口",
+  "date": "2020-04-26T00:00:00.000Z",
+  "formattedDate": "April 26, 2020",
+  "tags": [
+    {
+      "label": "nginx",
+      "permalink": "/blog/tags/nginx"
+    },
+    {
+      "label": "port",
+      "permalink": "/blog/tags/port"
+    },
+    {
+      "label": "target",
+      "permalink": "/blog/tags/target"
+    },
+    {
+      "label": "load-balance",
+      "permalink": "/blog/tags/load-balance"
+    }
+  ],
+  "readingTime": 3.155,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "nginx",
+    "title": "关于nginx和port知识总结",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "nginx",
+      "port",
+      "target",
+      "load-balance"
+    ]
+  },
+  "prevItem": {
+    "title": "使用terraform基本语法和创建vm",
+    "permalink": "/blog/2020/4/27/_terraform"
+  },
+  "nextItem": {
+    "title": "读取avro文件的schema",
+    "permalink": "/blog/2020/4/21/python读取avro的schema"
+  }
+}

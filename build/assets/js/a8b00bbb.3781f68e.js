@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[522],{35948:e=>{e.exports=JSON.parse('{"label":"random seed","permalink":"/blog/tags/random-seed","allTagsPath":"/blog/tags","count":1}')}}]);

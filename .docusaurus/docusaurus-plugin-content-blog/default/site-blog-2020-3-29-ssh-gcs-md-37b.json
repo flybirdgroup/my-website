@@ -1,0 +1,64 @@
+{
+  "permalink": "/blog/2020/3/29/ssh_gcs",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-3-29-ssh_gcs.md",
+  "source": "@site/blog/2020-3-29-ssh_gcs.md",
+  "title": "本地连接google cloud shell",
+  "description": "google cloud shell 经常断线,所以我们可以尝试用本地ssh连接google cloud shell",
+  "date": "2020-03-29T00:00:00.000Z",
+  "formattedDate": "March 29, 2020",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/blog/tags/python"
+    },
+    {
+      "label": "hello",
+      "permalink": "/blog/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/blog/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/blog/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/blog/tags/docker"
+    }
+  ],
+  "readingTime": 1.025,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI engine @ Facebook",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "ssh_gcs",
+    "title": "本地连接google cloud shell",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "python",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "prevItem": {
+    "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+    "permalink": "/blog/2020/3/30/BigQuery Storage API"
+  },
+  "nextItem": {
+    "title": "App Engine 使用快速入门",
+    "permalink": "/blog/2020/3/28/App Engine"
+  }
+}

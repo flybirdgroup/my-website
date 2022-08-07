@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/4/15/bq_sql常用短语",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-15-bq_sql常用短语.md",
+  "source": "@site/blog/2020-4-15-bq_sql常用短语.md",
+  "title": "Bigquery中sql语句常用命令",
+  "description": "连接数据库",
+  "date": "2020-04-15T00:00:00.000Z",
+  "formattedDate": "April 15, 2020",
+  "tags": [
+    {
+      "label": "gcp",
+      "permalink": "/blog/tags/gcp"
+    },
+    {
+      "label": "command line",
+      "permalink": "/blog/tags/command-line"
+    },
+    {
+      "label": "github",
+      "permalink": "/blog/tags/github"
+    }
+  ],
+  "readingTime": 3.475,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "bq_sql",
+    "title": "Bigquery中sql语句常用命令",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "gcp",
+      "command line",
+      "github"
+    ]
+  },
+  "prevItem": {
+    "title": "google script + excel+ google drive",
+    "permalink": "/blog/2020/4/16/bq_脚本制作presentation"
+  },
+  "nextItem": {
+    "title": "谷歌常用命令",
+    "permalink": "/blog/2020/4/15/gcp_常用命令"
+  }
+}

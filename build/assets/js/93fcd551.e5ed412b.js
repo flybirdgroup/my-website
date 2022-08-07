@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9923],{46745:e=>{e.exports=JSON.parse('{"label":"jupyter","permalink":"/blog/tags/jupyter","allTagsPath":"/blog/tags","count":1}')}}]);

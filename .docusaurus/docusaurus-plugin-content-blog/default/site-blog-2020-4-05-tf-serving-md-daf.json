@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/4/05/tf_serving",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-05-tf_serving.md",
+  "source": "@site/blog/2020-4-05-tf_serving.md",
+  "title": "tf_serving部署+遇到的问题",
+  "description": "参考过的博客",
+  "date": "2020-04-05T00:00:00.000Z",
+  "formattedDate": "April 5, 2020",
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/blog/tags/docker"
+    },
+    {
+      "label": "tf_serving",
+      "permalink": "/blog/tags/tf-serving"
+    },
+    {
+      "label": "model",
+      "permalink": "/blog/tags/model"
+    }
+  ],
+  "readingTime": 11.09,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "tf_serving",
+    "title": "tf_serving部署+遇到的问题",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "docker",
+      "tf_serving",
+      "model"
+    ]
+  },
+  "prevItem": {
+    "title": "mac安装spark+jupyter+annocade+pycharm配置",
+    "permalink": "/blog/2020/4/11/安装spark"
+  },
+  "nextItem": {
+    "title": "使用webscrapper爬取信息",
+    "permalink": "/blog/2020/4/04/webscrapper"
+  }
+}

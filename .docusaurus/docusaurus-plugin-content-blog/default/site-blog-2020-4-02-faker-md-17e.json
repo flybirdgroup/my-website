@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/4/02/faker",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-02-faker.md",
+  "source": "@site/blog/2020-4-02-faker.md",
+  "title": "用faker模拟数据+随机种子",
+  "description": "Pretty printing has been turned OFF",
+  "date": "2020-04-02T00:00:00.000Z",
+  "formattedDate": "April 2, 2020",
+  "tags": [
+    {
+      "label": "faker",
+      "permalink": "/blog/tags/faker"
+    },
+    {
+      "label": "汇丰",
+      "permalink": "/blog/tags/汇丰"
+    },
+    {
+      "label": "random seed",
+      "permalink": "/blog/tags/random-seed"
+    }
+  ],
+  "readingTime": 0.895,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "faker",
+    "title": "用faker模拟数据+随机种子",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "faker",
+      "汇丰",
+      "random seed"
+    ]
+  },
+  "prevItem": {
+    "title": "使用webscrapper爬取信息",
+    "permalink": "/blog/2020/4/04/webscrapper"
+  },
+  "nextItem": {
+    "title": "轻松上传超过100M的文件至GitHub",
+    "permalink": "/blog/2020/4/02/git_big_file copy"
+  }
+}

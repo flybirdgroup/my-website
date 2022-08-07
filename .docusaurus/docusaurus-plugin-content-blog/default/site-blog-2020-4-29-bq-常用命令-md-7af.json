@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/4/29/bq_常用命令",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-29-bq_常用命令.md",
+  "source": "@site/blog/2020-4-29-bq_常用命令.md",
+  "title": "Bigquery常用命令",
+  "description": "查看数据集的schema 使用bq show 数据集",
+  "date": "2020-04-29T00:00:00.000Z",
+  "formattedDate": "April 29, 2020",
+  "tags": [
+    {
+      "label": "gcp",
+      "permalink": "/blog/tags/gcp"
+    },
+    {
+      "label": "command line",
+      "permalink": "/blog/tags/command-line"
+    },
+    {
+      "label": "github",
+      "permalink": "/blog/tags/github"
+    }
+  ],
+  "readingTime": 2.435,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "bq_command_line",
+    "title": "Bigquery常用命令",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "gcp",
+      "command line",
+      "github"
+    ]
+  },
+  "prevItem": {
+    "title": "设立Jenkins在GKE上",
+    "permalink": "/blog/2020/4/30/创建jenkins在GKE"
+  },
+  "nextItem": {
+    "title": "GCS 读写 by python",
+    "permalink": "/blog/2020/4/29/_GCS读写by python"
+  }
+}

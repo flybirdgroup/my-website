@@ -1,0 +1,63 @@
+{
+  "unversionedId": "VisionAPI",
+  "id": "VisionAPI",
+  "title": "对图片进行标签检测-谷歌云快速入门(五)",
+  "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
+  "source": "@site/docs/VisionAPI.md",
+  "sourceDirName": ".",
+  "slug": "/VisionAPI",
+  "permalink": "/docs/VisionAPI",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/VisionAPI.md",
+  "tags": [
+    {
+      "label": "facebook",
+      "permalink": "/docs/tags/facebook"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "tensorflow",
+      "permalink": "/docs/tags/tensorflow"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "VisionAPI",
+    "title": "对图片进行标签检测-谷歌云快速入门(五)",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "tags": [
+      "facebook",
+      "hello",
+      "docusaurus",
+      "tensorflow",
+      "google cloud",
+      "linux"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+    "permalink": "/docs/TensorFlow"
+  },
+  "next": {
+    "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+    "permalink": "/docs/createlinux"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "mdx",
+  "id": "mdx",
+  "title": "Powered by MDX",
+  "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+  "source": "@site/docs/mdx.md",
+  "sourceDirName": ".",
+  "slug": "/mdx",
+  "permalink": "/docs/mdx",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/mdx.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "mdx",
+    "title": "Powered by MDX"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Container Registry 快速入门快速入门",
+    "permalink": "/docs/docker"
+  },
+  "next": {
+    "title": "人工智能项目分享",
+    "permalink": "/docs/projects"
+  }
+}

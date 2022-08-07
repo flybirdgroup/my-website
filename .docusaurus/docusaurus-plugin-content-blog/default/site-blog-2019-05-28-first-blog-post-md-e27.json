@@ -45,5 +45,9 @@
   "prevItem": {
     "title": "Long Blog Post",
     "permalink": "/blog/long-blog-post"
+  },
+  "nextItem": {
+    "title": "First Blog Post",
+    "permalink": "/blog/first-blog-post"
   }
 }

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9256],{73711:e=>{e.exports=JSON.parse('{"label":"pycharm","permalink":"/blog/tags/pycharm","allTagsPath":"/blog/tags","count":1}')}}]);

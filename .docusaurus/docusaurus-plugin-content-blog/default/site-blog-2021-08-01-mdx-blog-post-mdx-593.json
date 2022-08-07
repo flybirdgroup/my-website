@@ -38,7 +38,7 @@
     "permalink": "/blog/welcome"
   },
   "nextItem": {
-    "title": "Long Blog Post",
-    "permalink": "/blog/long-blog-post"
+    "title": "通过Composer使用Airflow运行一个workflow",
+    "permalink": "/blog/2020/6/12/Airflow_Dataproc"
   }
 }

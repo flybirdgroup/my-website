@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/3/19/attention",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-3-19-attention.md",
+  "source": "@site/blog/2020-3-19-attention.md",
+  "title": "双向注意力LSTM神经网络",
+  "description": "原理讲解",
+  "date": "2020-03-19T00:00:00.000Z",
+  "formattedDate": "March 19, 2020",
+  "tags": [
+    {
+      "label": "CNN",
+      "permalink": "/blog/tags/cnn"
+    },
+    {
+      "label": "classifier",
+      "permalink": "/blog/tags/classifier"
+    },
+    {
+      "label": "textCNN",
+      "permalink": "/blog/tags/text-cnn"
+    }
+  ],
+  "readingTime": 9.09,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "Attention",
+    "title": "双向注意力LSTM神经网络",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "CNN",
+      "classifier",
+      "textCNN"
+    ]
+  },
+  "prevItem": {
+    "title": "Create Virtual Linux by Google 创建linux虚拟机",
+    "permalink": "/blog/2020/3/21/createlinux"
+  },
+  "nextItem": {
+    "title": "word2vec详解",
+    "permalink": "/blog/2020/03/18/word2vec"
+  }
+}

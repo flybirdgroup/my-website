@@ -79,14 +79,272 @@
           }
         ],
         "href": "/docs/category/tutorial---extras"
+      },
+      {
+        "type": "link",
+        "label": "push镜像到自己的dockerhub",
+        "href": "/docs/dockerhub",
+        "docId": "dockerhub"
+      },
+      {
+        "type": "link",
+        "label": "从Dockerhub拉取镜像并且使用命令运行",
+        "href": "/docs/dockerhub_2",
+        "docId": "dockerhub_2"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/BIGQUERY",
+        "docId": "BIGQUERY"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/BIGQUERY2",
+        "docId": "BIGQUERY2"
+      },
+      {
+        "type": "link",
+        "label": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+        "href": "/docs/BIGQUERY3",
+        "docId": "BIGQUERY3"
+      },
+      {
+        "type": "link",
+        "label": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
+        "href": "/docs/GoogleAppEngine",
+        "docId": "GoogleAppEngine"
+      },
+      {
+        "type": "link",
+        "label": "存储文件然后共享-谷歌云快速入门(二)",
+        "href": "/docs/GoogleCloudStorage",
+        "docId": "GoogleCloudStorage"
+      },
+      {
+        "type": "link",
+        "label": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+        "href": "/docs/Kubernetes",
+        "docId": "Kubernetes"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/ML4",
+        "docId": "ML4"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/ML3",
+        "docId": "ML3"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/ML1",
+        "docId": "ML1"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/ML2",
+        "docId": "ML2"
+      },
+      {
+        "type": "link",
+        "label": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+        "href": "/docs/TensorFlow",
+        "docId": "TensorFlow"
+      },
+      {
+        "type": "link",
+        "label": "对图片进行标签检测-谷歌云快速入门(五)",
+        "href": "/docs/VisionAPI",
+        "docId": "VisionAPI"
+      },
+      {
+        "type": "link",
+        "label": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+        "href": "/docs/createlinux",
+        "docId": "createlinux"
+      },
+      {
+        "type": "link",
+        "label": "Style Guide",
+        "href": "/docs/doc1",
+        "docId": "doc1"
+      },
+      {
+        "type": "link",
+        "label": "gcs command line",
+        "href": "/docs/doc2",
+        "docId": "doc2"
+      },
+      {
+        "type": "link",
+        "label": "This is Document Number 3",
+        "href": "/docs/doc3",
+        "docId": "doc3"
+      },
+      {
+        "type": "link",
+        "label": "Container Registry 快速入门快速入门",
+        "href": "/docs/docker",
+        "docId": "docker"
+      },
+      {
+        "type": "link",
+        "label": "Powered by MDX",
+        "href": "/docs/mdx",
+        "docId": "mdx"
+      },
+      {
+        "type": "link",
+        "label": "人工智能项目分享",
+        "href": "/docs/projects",
+        "docId": "projects"
+      },
+      {
+        "type": "link",
+        "label": "谷歌安装GCP_shell_python命令",
+        "href": "/docs/GCP_shell_python",
+        "docId": "GCP_shell_python"
       }
     ]
   },
   "docs": {
+    "BIGQUERY": {
+      "id": "BIGQUERY",
+      "title": "Bigquery 快速入门(一)--创建数据集并且查询",
+      "description": "to link to Bigquery (二)--在BigQuery中创建授权视图",
+      "sidebar": "tutorialSidebar"
+    },
+    "BIGQUERY2": {
+      "id": "BIGQUERY2",
+      "title": "Bigquery (二)--在BigQuery中创建授权视图",
+      "description": "1 创建数据集并对其应用访问权限控制",
+      "sidebar": "tutorialSidebar"
+    },
+    "BIGQUERY3": {
+      "id": "BIGQUERY3",
+      "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+      "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
+      "sidebar": "tutorialSidebar"
+    },
+    "createlinux": {
+      "id": "createlinux",
+      "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+      "description": "author: 招晓贤",
+      "sidebar": "tutorialSidebar"
+    },
+    "doc1": {
+      "id": "doc1",
+      "title": "Style Guide",
+      "description": "You can write content using GitHub-flavored Markdown syntax.",
+      "sidebar": "tutorialSidebar"
+    },
+    "doc2": {
+      "id": "doc2",
+      "title": "GCP常用命令",
+      "description": "Cloud Storage常用命令",
+      "sidebar": "tutorialSidebar"
+    },
+    "doc3": {
+      "id": "doc3",
+      "title": "This is Document Number 3",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "sidebar": "tutorialSidebar"
+    },
+    "docker": {
+      "id": "docker",
+      "title": "Container Registry 快速入门快速入门",
+      "description": "使用 Cloud Shell 配置 gcloud 并运行一个容器映像。",
+      "sidebar": "tutorialSidebar"
+    },
+    "dockerhub": {
+      "id": "dockerhub",
+      "title": "push镜像到自己的dockerhub",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "dockerhub_2": {
+      "id": "dockerhub_2",
+      "title": "从Dockerhub拉取镜像并且使用命令运行",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "GCP_shell_python": {
+      "id": "GCP_shell_python",
+      "title": "谷歌安装GCP_shell_python命令",
+      "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
+      "sidebar": "tutorialSidebar"
+    },
+    "GoogleAppEngine": {
+      "id": "GoogleAppEngine",
+      "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
+      "description": "构建一个显示一条简短消息的 App Engine 小应用。",
+      "sidebar": "tutorialSidebar"
+    },
+    "GoogleCloudStorage": {
+      "id": "GoogleCloudStorage",
+      "title": "存储文件然后共享-谷歌云快速入门(二)",
+      "description": "link to 使用GKE(Google Kubernetes Engine)部署容器化应用 -谷歌云快速入门(三)",
+      "sidebar": "tutorialSidebar"
+    },
     "intro": {
       "id": "intro",
       "title": "Tutorial Intro",
       "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Kubernetes": {
+      "id": "Kubernetes",
+      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "mdx": {
+      "id": "mdx",
+      "title": "Powered by MDX",
+      "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
+      "sidebar": "tutorialSidebar"
+    },
+    "ML1": {
+      "id": "ML1",
+      "title": "机器学习-- 1 训练与损失",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "ML2": {
+      "id": "ML2",
+      "title": "机器学习-- 2 降低损失",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "ML3": {
+      "id": "ML3",
+      "title": "机器学习-- 3 梯度下降法",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "ML4": {
+      "id": "ML4",
+      "title": "机器学习-- 4 TF基本步骤",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "projects": {
+      "id": "projects",
+      "title": "人工智能项目分享",
+      "description": "NLP方向",
+      "sidebar": "tutorialSidebar"
+    },
+    "TensorFlow": {
+      "id": "TensorFlow",
+      "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+      "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {
@@ -135,6 +393,12 @@
       "id": "tutorial-extras/translate-your-site",
       "title": "Translate your site",
       "description": "Let's translate docs/intro.md to French.",
+      "sidebar": "tutorialSidebar"
+    },
+    "VisionAPI": {
+      "id": "VisionAPI",
+      "title": "对图片进行标签检测-谷歌云快速入门(五)",
+      "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
       "sidebar": "tutorialSidebar"
     }
   }

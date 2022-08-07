@@ -1,0 +1,54 @@
+{
+  "permalink": "/blog/2020/4/02/git_big_file copy",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2020-4-02-git_big_file copy.md",
+  "source": "@site/blog/2020-4-02-git_big_file copy.md",
+  "title": "轻松上传超过100M的文件至GitHub",
+  "description": "GitHub有一个限制，不能上传超过100M的文件。想要上传超过100M的文件，就需要借助Git LFS",
+  "date": "2020-04-02T00:00:00.000Z",
+  "formattedDate": "April 2, 2020",
+  "tags": [
+    {
+      "label": "git",
+      "permalink": "/blog/tags/git"
+    },
+    {
+      "label": "lfs",
+      "permalink": "/blog/tags/lfs"
+    },
+    {
+      "label": "github",
+      "permalink": "/blog/tags/github"
+    }
+  ],
+  "readingTime": 1.195,
+  "hasTruncateMarker": true,
+  "authors": [
+    {
+      "name": "招晓贤",
+      "title": "AI Engineer",
+      "url": "https://github.com/flybirdgroup",
+      "imageURL": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg"
+    }
+  ],
+  "frontMatter": {
+    "id": "git_big_file",
+    "title": "轻松上传超过100M的文件至GitHub",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "git",
+      "lfs",
+      "github"
+    ]
+  },
+  "prevItem": {
+    "title": "用faker模拟数据+随机种子",
+    "permalink": "/blog/2020/4/02/faker"
+  },
+  "nextItem": {
+    "title": "快速按照工具包",
+    "permalink": "/blog/2020/3/31/douban"
+  }
+}
