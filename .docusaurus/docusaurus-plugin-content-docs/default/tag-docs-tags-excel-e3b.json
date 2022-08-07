@@ -1,0 +1,14 @@
+{
+  "label": "excel",
+  "permalink": "/docs/tags/excel",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Google_Knowledge/bigquery_presentation",
+      "title": "google script + excel+ google drive",
+      "description": "我们的目标是创建一个脚本可以读取数据,导出成表格形式而且制作出图标,最后做成一个ppt幻灯演示,看起来是不是很牛,这些动作只需要写个脚本就能完成啦",
+      "permalink": "/docs/Google_Knowledge/bigquery_presentation"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Google_Knowledge/BigQueryStorageAPI",
+  "id": "Google_Knowledge/BigQueryStorageAPI",
+  "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+  "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+  "source": "@site/docs/Google_Knowledge/2020-3-30-BigQuery Storage API.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/BigQueryStorageAPI",
+  "permalink": "/docs/Google_Knowledge/BigQueryStorageAPI",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-3-30-BigQuery Storage API.md",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "BigQueryStorageAPI",
+    "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "python",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "App Engine 使用快速入门",
+    "permalink": "/docs/Google_Knowledge/App"
+  },
+  "next": {
+    "title": "轻松上传超过100M的文件至GitHub",
+    "permalink": "/docs/Google_Knowledge/git_big_file"
+  }
+}

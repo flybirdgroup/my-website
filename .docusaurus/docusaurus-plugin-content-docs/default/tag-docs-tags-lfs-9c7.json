@@ -1,0 +1,20 @@
+{
+  "label": "lfs",
+  "permalink": "/docs/tags/lfs",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Google_Knowledge/jupyterhub_GCP",
+      "title": "5分钟在谷歌云上创建jupyterhub",
+      "description": "这个是常规操作,所以就不解释了",
+      "permalink": "/docs/Google_Knowledge/jupyterhub_GCP"
+    },
+    {
+      "id": "Google_Knowledge/git_big_file",
+      "title": "轻松上传超过100M的文件至GitHub",
+      "description": "GitHub有一个限制，不能上传超过100M的文件。想要上传超过100M的文件，就需要借助Git LFS",
+      "permalink": "/docs/Google_Knowledge/git_big_file"
+    }
+  ]
+}

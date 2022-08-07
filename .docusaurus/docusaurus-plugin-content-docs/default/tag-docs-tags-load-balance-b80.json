@@ -1,0 +1,14 @@
+{
+  "label": "load-balance",
+  "permalink": "/docs/tags/load-balance",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "CICD/nginx",
+      "title": "关于nginx和port知识总结",
+      "description": "port是service服务的端口",
+      "permalink": "/docs/CICD/nginx"
+    }
+  ]
+}

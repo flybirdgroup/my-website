@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[7301],{731:e=>{e.exports=JSON.parse('{"label":"GKE","permalink":"/docs/tags/gke","allTagsPath":"/docs/tags","count":1,"items":[{"id":"CICD/jenkins","title":"\u8bbe\u7acbJenkins\u5728GKE\u4e0a","description":"\u8bbe\u7f6ezone\u548c\u4e0b\u8f7d\u4ee3\u7801","permalink":"/docs/CICD/jenkins"}]}')}}]);

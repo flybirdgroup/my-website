@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/dataflow1",
+  "id": "Google_Knowledge/dataflow1",
+  "title": "dataflow简单入门-流数据输入到bigquery",
+  "description": "概念: streaming 就是 动态的意思, streaming data就是动态数据, job status is streaming 就是这个作业是一直持续的",
+  "source": "@site/docs/Google_Knowledge/2020-4-11-dataflow流数据输入到bigquery.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/dataflow1",
+  "permalink": "/docs/Google_Knowledge/dataflow1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-11-dataflow流数据输入到bigquery.md",
+  "tags": [
+    {
+      "label": "dataflow",
+      "permalink": "/docs/tags/dataflow"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/docs/tags/bigquery"
+    },
+    {
+      "label": "subpub",
+      "permalink": "/docs/tags/subpub"
+    },
+    {
+      "label": "steaming",
+      "permalink": "/docs/tags/steaming"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dataflow1",
+    "title": "dataflow简单入门-流数据输入到bigquery",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataflow",
+      "bigquery",
+      "subpub",
+      "steaming"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+    "permalink": "/docs/Google_Knowledge/dataflow2"
+  },
+  "next": {
+    "title": "5分钟在谷歌云上使用dataflow来运行job",
+    "permalink": "/docs/Google_Knowledge/dataflow"
+  }
+}

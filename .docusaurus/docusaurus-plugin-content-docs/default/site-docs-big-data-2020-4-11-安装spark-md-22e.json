@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Big_Data/spark1",
+  "id": "Big_Data/spark1",
+  "title": "mac安装spark+jupyter+annocade+pycharm配置",
+  "description": "Spark的安装大多比较麻烦，而Mac安装Spark非常简单，本文分三部分内容。",
+  "source": "@site/docs/Big_Data/2020-4-11-安装spark.md",
+  "sourceDirName": "Big_Data",
+  "slug": "/Big_Data/spark1",
+  "permalink": "/docs/Big_Data/spark1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Big_Data/2020-4-11-安装spark.md",
+  "tags": [
+    {
+      "label": "spark",
+      "permalink": "/docs/tags/spark"
+    },
+    {
+      "label": "jupyter",
+      "permalink": "/docs/tags/jupyter"
+    },
+    {
+      "label": "pycharm",
+      "permalink": "/docs/tags/pycharm"
+    },
+    {
+      "label": "java",
+      "permalink": "/docs/tags/java"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "spark1",
+    "title": "mac安装spark+jupyter+annocade+pycharm配置",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "spark",
+      "jupyter",
+      "pycharm",
+      "java"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dataflow sql",
+    "permalink": "/docs/Big_Data/dataflow3"
+  },
+  "next": {
+    "title": "dataproc--dataproc+GCS+Bigquery+Pyspark",
+    "permalink": "/docs/Big_Data/dataproc4"
+  }
+}

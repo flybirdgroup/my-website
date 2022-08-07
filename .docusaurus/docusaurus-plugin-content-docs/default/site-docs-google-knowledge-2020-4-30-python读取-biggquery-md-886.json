@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Google_Knowledge/bigquery1",
+  "id": "Google_Knowledge/bigquery1",
+  "title": "python读取bigquery",
+  "description": "安装客户端",
+  "source": "@site/docs/Google_Knowledge/2020-4-30-python读取Biggquery.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/bigquery1",
+  "permalink": "/docs/Google_Knowledge/bigquery1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-30-python读取Biggquery.md",
+  "tags": [
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "label": "command line",
+      "permalink": "/docs/tags/command-line"
+    },
+    {
+      "label": "cat",
+      "permalink": "/docs/tags/cat"
+    },
+    {
+      "label": "<<EOF",
+      "permalink": "/docs/tags/eof"
+    },
+    {
+      "label": "loop",
+      "permalink": "/docs/tags/loop"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "bigquery1",
+    "title": "python读取bigquery",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "linux",
+      "command line",
+      "cat",
+      "<<EOF",
+      "loop"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "linux高级用法",
+    "permalink": "/docs/Google_Knowledge/linux"
+  },
+  "next": {
+    "title": "Bigquery 快速入门(一)--创建数据集并且查询",
+    "permalink": "/docs/Google_Knowledge/BIGQUERY"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Big_Data/dataproc2",
+  "id": "Big_Data/dataproc2",
+  "title": "dataproc自动伸缩和运行spark job",
+  "description": "我们运用数据分析的时候,通常都是脏数据,我们需要清洗才能被使用.",
+  "source": "@site/docs/Big_Data/2020-4-17-dataproc自动伸缩和运行sparkjob.md",
+  "sourceDirName": "Big_Data",
+  "slug": "/Big_Data/dataproc2",
+  "permalink": "/docs/Big_Data/dataproc2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Big_Data/2020-4-17-dataproc自动伸缩和运行sparkjob.md",
+  "tags": [
+    {
+      "label": "dataproc",
+      "permalink": "/docs/tags/dataproc"
+    },
+    {
+      "label": "GCP",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "Spark",
+      "permalink": "/docs/tags/spark"
+    },
+    {
+      "label": "Hadoop",
+      "permalink": "/docs/tags/hadoop"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dataproc2",
+    "title": "dataproc自动伸缩和运行spark job",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataproc",
+      "GCP",
+      "Spark",
+      "Hadoop"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dataproc参数化跑spark和读写avro文件",
+    "permalink": "/docs/Big_Data/dataproc5"
+  },
+  "next": {
+    "title": "dataproc--跑pyspark(从big query获取数据)",
+    "permalink": "/docs/Big_Data/dataproc3"
+  }
+}

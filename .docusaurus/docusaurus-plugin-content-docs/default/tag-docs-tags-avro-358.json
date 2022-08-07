@@ -1,0 +1,20 @@
+{
+  "label": "avro",
+  "permalink": "/docs/tags/avro",
+  "allTagsPath": "/docs/tags",
+  "count": 2,
+  "items": [
+    {
+      "id": "Google_Knowledge/avro",
+      "title": "读取avro文件的schema",
+      "description": "首先安装包",
+      "permalink": "/docs/Google_Knowledge/avro"
+    },
+    {
+      "id": "Google_Knowledge/avro",
+      "title": "读取avro文件的schema",
+      "description": "首先安装包",
+      "permalink": "/docs/Google_Knowledge/avro"
+    }
+  ]
+}

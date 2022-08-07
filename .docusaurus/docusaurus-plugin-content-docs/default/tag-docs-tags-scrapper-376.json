@@ -1,0 +1,14 @@
+{
+  "label": "scrapper",
+  "permalink": "/docs/tags/scrapper",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Python/webscrapper",
+      "title": "使用webscrapper爬取信息",
+      "description": "step 1: 比如在一个网站搜索纸尿裤, 我们在google chrome的更多工具中点击开发者工具",
+      "permalink": "/docs/Python/webscrapper"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/avro",
+  "id": "Google_Knowledge/avro",
+  "title": "读取avro文件的schema",
+  "description": "首先安装包",
+  "source": "@site/docs/Google_Knowledge/2020-4-21-python读取avro的schema.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/avro",
+  "permalink": "/docs/Google_Knowledge/avro",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-21-python读取avro的schema.md",
+  "tags": [
+    {
+      "label": "dataproc",
+      "permalink": "/docs/tags/dataproc"
+    },
+    {
+      "label": "GCP",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "avro",
+      "permalink": "/docs/tags/avro"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/docs/tags/bigquery"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "avro",
+    "title": "读取avro文件的schema",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataproc",
+      "GCP",
+      "avro",
+      "bigquery"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "google script + excel+ google drive",
+    "permalink": "/docs/Google_Knowledge/bigquery_presentation"
+  },
+  "next": {
+    "title": "把avro文件放到bigquery",
+    "permalink": "/docs/Google_Knowledge/avro"
+  }
+}

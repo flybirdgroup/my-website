@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[1445],{57538:e=>{e.exports=JSON.parse('{"label":"google cloud init","permalink":"/blog/tags/google-cloud-init","allTagsPath":"/blog/tags","count":1}')}}]);

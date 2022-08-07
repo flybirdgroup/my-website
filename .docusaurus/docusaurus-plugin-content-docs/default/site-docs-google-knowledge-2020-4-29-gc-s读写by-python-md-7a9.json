@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/GCS1",
+  "id": "Google_Knowledge/GCS1",
+  "title": "GCS 读写 by python",
+  "description": "我们可以使用谷歌的Python客户端API将文件上传到谷歌云存储。",
+  "source": "@site/docs/Google_Knowledge/2020-4-29_GCS读写by python.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/GCS1",
+  "permalink": "/docs/Google_Knowledge/GCS1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-29_GCS读写by python.md",
+  "tags": [
+    {
+      "label": "terraform",
+      "permalink": "/docs/tags/terraform"
+    },
+    {
+      "label": "gcp",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "compute engine",
+      "permalink": "/docs/tags/compute-engine"
+    },
+    {
+      "label": "vm",
+      "permalink": "/docs/tags/vm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "GCS1",
+    "title": "GCS 读写 by python",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "terraform",
+      "gcp",
+      "compute engine",
+      "vm"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bigquery常用命令",
+    "permalink": "/docs/Google_Knowledge/bq_command_line"
+  },
+  "next": {
+    "title": "gsutil常用命令",
+    "permalink": "/docs/Google_Knowledge/gsutil"
+  }
+}

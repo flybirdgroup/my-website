@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Big_Data/dataflow2",
+  "id": "Big_Data/dataflow2",
+  "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+  "description": "1. 在本地创建来测试运行",
+  "source": "@site/docs/Big_Data/2020-4-11-dataflow创建作业.md",
+  "sourceDirName": "Big_Data",
+  "slug": "/Big_Data/dataflow2",
+  "permalink": "/docs/Big_Data/dataflow2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Big_Data/2020-4-11-dataflow创建作业.md",
+  "tags": [
+    {
+      "label": "dataflow",
+      "permalink": "/docs/tags/dataflow"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/docs/tags/bigquery"
+    },
+    {
+      "label": "subpub",
+      "permalink": "/docs/tags/subpub"
+    },
+    {
+      "label": "steaming",
+      "permalink": "/docs/tags/steaming"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dataflow2",
+    "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataflow",
+      "bigquery",
+      "subpub",
+      "steaming"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dataflow简单入门-apache beam 基本概念",
+    "permalink": "/docs/Big_Data/dataflow4"
+  },
+  "next": {
+    "title": "dataflow简单入门-流数据输入到bigquery",
+    "permalink": "/docs/Big_Data/dataflow1"
+  }
+}

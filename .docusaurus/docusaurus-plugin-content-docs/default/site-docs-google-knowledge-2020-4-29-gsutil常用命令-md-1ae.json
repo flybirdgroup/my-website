@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/gsutil",
+  "id": "Google_Knowledge/gsutil",
+  "title": "gsutil常用命令",
+  "description": "gsutil命令快速入门",
+  "source": "@site/docs/Google_Knowledge/2020-4-29_gsutil常用命令.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/gsutil",
+  "permalink": "/docs/Google_Knowledge/gsutil",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-29_gsutil常用命令.md",
+  "tags": [
+    {
+      "label": "terraform",
+      "permalink": "/docs/tags/terraform"
+    },
+    {
+      "label": "gcp",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "compute engine",
+      "permalink": "/docs/tags/compute-engine"
+    },
+    {
+      "label": "vm",
+      "permalink": "/docs/tags/vm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "gsutil",
+    "title": "gsutil常用命令",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "terraform",
+      "gcp",
+      "compute engine",
+      "vm"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GCS 读写 by python",
+    "permalink": "/docs/Google_Knowledge/GCS1"
+  },
+  "next": {
+    "title": "linux高级用法",
+    "permalink": "/docs/Google_Knowledge/linux"
+  }
+}

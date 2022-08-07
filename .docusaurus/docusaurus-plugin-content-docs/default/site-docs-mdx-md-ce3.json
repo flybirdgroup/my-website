@@ -17,11 +17,7 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Container Registry 快速入门快速入门",
-    "permalink": "/docs/docker"
-  },
-  "next": {
-    "title": "人工智能项目分享",
-    "permalink": "/docs/projects"
+    "title": "Style Guide",
+    "permalink": "/docs/doc1"
   }
 }

@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Machine_Learning/Attention",
+  "id": "Machine_Learning/Attention",
+  "title": "双向注意力LSTM神经网络",
+  "description": "原理讲解",
+  "source": "@site/docs/Machine_Learning/2020-3-19-attention.md",
+  "sourceDirName": "Machine_Learning",
+  "slug": "/Machine_Learning/Attention",
+  "permalink": "/docs/Machine_Learning/Attention",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Machine_Learning/2020-3-19-attention.md",
+  "tags": [
+    {
+      "label": "CNN",
+      "permalink": "/docs/tags/cnn"
+    },
+    {
+      "label": "classifier",
+      "permalink": "/docs/tags/classifier"
+    },
+    {
+      "label": "textCNN",
+      "permalink": "/docs/tags/text-cnn"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "Attention",
+    "title": "双向注意力LSTM神经网络",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "CNN",
+      "classifier",
+      "textCNN"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "textCNN卷积神经网络分类",
+    "permalink": "/docs/Machine_Learning/welcome"
+  },
+  "next": {
+    "title": "tf_serving部署+遇到的问题",
+    "permalink": "/docs/Machine_Learning/tf_serving"
+  }
+}

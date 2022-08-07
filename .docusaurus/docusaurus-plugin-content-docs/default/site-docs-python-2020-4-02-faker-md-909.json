@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Python/faker",
+  "id": "Python/faker",
+  "title": "用faker模拟数据+随机种子",
+  "description": "Pretty printing has been turned OFF",
+  "source": "@site/docs/Python/2020-4-02-faker.md",
+  "sourceDirName": "Python",
+  "slug": "/Python/faker",
+  "permalink": "/docs/Python/faker",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Python/2020-4-02-faker.md",
+  "tags": [
+    {
+      "label": "faker",
+      "permalink": "/docs/tags/faker"
+    },
+    {
+      "label": "汇丰",
+      "permalink": "/docs/tags/汇丰"
+    },
+    {
+      "label": "random seed",
+      "permalink": "/docs/tags/random-seed"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "faker",
+    "title": "用faker模拟数据+随机种子",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "faker",
+      "汇丰",
+      "random seed"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速按照工具包",
+    "permalink": "/docs/Python/douban"
+  },
+  "next": {
+    "title": "使用webscrapper爬取信息",
+    "permalink": "/docs/Python/webscrapper"
+  }
+}

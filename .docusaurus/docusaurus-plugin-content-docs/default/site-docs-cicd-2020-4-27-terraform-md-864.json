@@ -1,0 +1,54 @@
+{
+  "unversionedId": "CICD/terraform1",
+  "id": "CICD/terraform1",
+  "title": "使用terraform基本语法和创建vm",
+  "description": "我觉得terraform的基本语法就是字典对象式语法.",
+  "source": "@site/docs/CICD/2020-4-27_terraform.md",
+  "sourceDirName": "CICD",
+  "slug": "/CICD/terraform1",
+  "permalink": "/docs/CICD/terraform1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CICD/2020-4-27_terraform.md",
+  "tags": [
+    {
+      "label": "terraform",
+      "permalink": "/docs/tags/terraform"
+    },
+    {
+      "label": "gcp",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "compute engine",
+      "permalink": "/docs/tags/compute-engine"
+    },
+    {
+      "label": "vm",
+      "permalink": "/docs/tags/vm"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "terraform1",
+    "title": "使用terraform基本语法和创建vm",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "terraform",
+      "gcp",
+      "compute engine",
+      "vm"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "关于nginx和port知识总结",
+    "permalink": "/docs/CICD/nginx"
+  },
+  "next": {
+    "title": "设立Jenkins在GKE上",
+    "permalink": "/docs/CICD/jenkins"
+  }
+}

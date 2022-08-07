@@ -2,9 +2,8 @@
   "permalink": "/blog",
   "page": 1,
   "postsPerPage": 10,
-  "totalPages": 6,
-  "totalCount": 53,
-  "nextPage": "/blog/page/2",
+  "totalPages": 1,
+  "totalCount": 2,
   "blogDescription": "Blog",
   "blogTitle": "Blog"
 }

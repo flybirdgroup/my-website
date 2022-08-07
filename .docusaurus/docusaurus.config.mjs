@@ -9,7 +9,7 @@ export default {
   "url": "https://your-docusaurus-test-site.com",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
-  "onBrokenMarkdownLinks": "ignore",
+  "onBrokenMarkdownLinks": "warn",
   "favicon": "img/favicon.ico",
   "noIndex": true,
   "organizationName": "facebook",

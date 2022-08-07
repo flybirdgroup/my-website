@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Machine_Learning/tf_serving",
+  "id": "Machine_Learning/tf_serving",
+  "title": "tf_serving部署+遇到的问题",
+  "description": "参考过的博客",
+  "source": "@site/docs/Machine_Learning/2020-4-05-tf_serving.md",
+  "sourceDirName": "Machine_Learning",
+  "slug": "/Machine_Learning/tf_serving",
+  "permalink": "/docs/Machine_Learning/tf_serving",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Machine_Learning/2020-4-05-tf_serving.md",
+  "tags": [
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    },
+    {
+      "label": "tf_serving",
+      "permalink": "/docs/tags/tf-serving"
+    },
+    {
+      "label": "model",
+      "permalink": "/docs/tags/model"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "tf_serving",
+    "title": "tf_serving部署+遇到的问题",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "docker",
+      "tf_serving",
+      "model"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "双向注意力LSTM神经网络",
+    "permalink": "/docs/Machine_Learning/Attention"
+  },
+  "next": {
+    "title": "机器学习-- 4 TF基本步骤",
+    "permalink": "/docs/Machine_Learning/ML4"
+  }
+}

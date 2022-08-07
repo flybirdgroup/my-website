@@ -1,0 +1,38 @@
+{
+  "label": "github",
+  "permalink": "/docs/tags/github",
+  "allTagsPath": "/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "Google_Knowledge/jupyterhub_GCP",
+      "title": "5分钟在谷歌云上创建jupyterhub",
+      "description": "这个是常规操作,所以就不解释了",
+      "permalink": "/docs/Google_Knowledge/jupyterhub_GCP"
+    },
+    {
+      "id": "Google_Knowledge/gcp_command_line",
+      "title": "谷歌常用命令",
+      "description": "列出活动账号名称",
+      "permalink": "/docs/Google_Knowledge/gcp_command_line"
+    },
+    {
+      "id": "Google_Knowledge/git_big_file",
+      "title": "轻松上传超过100M的文件至GitHub",
+      "description": "GitHub有一个限制，不能上传超过100M的文件。想要上传超过100M的文件，就需要借助Git LFS",
+      "permalink": "/docs/Google_Knowledge/git_big_file"
+    },
+    {
+      "id": "Google_Knowledge/bq_command_line",
+      "title": "Bigquery常用命令",
+      "description": "查看数据集的schema 使用bq show 数据集",
+      "permalink": "/docs/Google_Knowledge/bq_command_line"
+    },
+    {
+      "id": "Google_Knowledge/bq_sql",
+      "title": "Bigquery中sql语句常用命令",
+      "description": "连接数据库",
+      "permalink": "/docs/Google_Knowledge/bq_sql"
+    }
+  ]
+}

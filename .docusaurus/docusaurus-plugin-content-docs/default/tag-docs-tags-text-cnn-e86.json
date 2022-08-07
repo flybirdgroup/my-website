@@ -1,0 +1,14 @@
+{
+  "label": "textCNN",
+  "permalink": "/docs/tags/text-cnn",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Machine_Learning/Attention",
+      "title": "双向注意力LSTM神经网络",
+      "description": "原理讲解",
+      "permalink": "/docs/Machine_Learning/Attention"
+    }
+  ]
+}

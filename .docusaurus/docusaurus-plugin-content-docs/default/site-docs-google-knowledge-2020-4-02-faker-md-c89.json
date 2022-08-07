@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Google_Knowledge/faker",
+  "id": "Google_Knowledge/faker",
+  "title": "用faker模拟数据+随机种子",
+  "description": "Pretty printing has been turned OFF",
+  "source": "@site/docs/Google_Knowledge/2020-4-02-faker.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/faker",
+  "permalink": "/docs/Google_Knowledge/faker",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-02-faker.md",
+  "tags": [
+    {
+      "label": "faker",
+      "permalink": "/docs/tags/faker"
+    },
+    {
+      "label": "汇丰",
+      "permalink": "/docs/tags/汇丰"
+    },
+    {
+      "label": "random seed",
+      "permalink": "/docs/tags/random-seed"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "faker",
+    "title": "用faker模拟数据+随机种子",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "faker",
+      "汇丰",
+      "random seed"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "快速按照工具包",
+    "permalink": "/docs/Google_Knowledge/douban"
+  },
+  "next": {
+    "title": "轻松上传超过100M的文件至GitHub",
+    "permalink": "/docs/Google_Knowledge/git_big_file"
+  }
+}

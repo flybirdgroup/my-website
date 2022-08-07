@@ -1,0 +1,26 @@
+{
+  "label": "compute engine",
+  "permalink": "/docs/tags/compute-engine",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "CICD/terraform1",
+      "title": "使用terraform基本语法和创建vm",
+      "description": "我觉得terraform的基本语法就是字典对象式语法.",
+      "permalink": "/docs/CICD/terraform1"
+    },
+    {
+      "id": "Google_Knowledge/GCS1",
+      "title": "GCS 读写 by python",
+      "description": "我们可以使用谷歌的Python客户端API将文件上传到谷歌云存储。",
+      "permalink": "/docs/Google_Knowledge/GCS1"
+    },
+    {
+      "id": "Google_Knowledge/gsutil",
+      "title": "gsutil常用命令",
+      "description": "gsutil命令快速入门",
+      "permalink": "/docs/Google_Knowledge/gsutil"
+    }
+  ]
+}

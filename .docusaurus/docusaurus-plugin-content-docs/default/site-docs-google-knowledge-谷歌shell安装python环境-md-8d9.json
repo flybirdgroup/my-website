@@ -1,0 +1,58 @@
+{
+  "unversionedId": "Google_Knowledge/GCP_shell_python",
+  "id": "Google_Knowledge/GCP_shell_python",
+  "title": "谷歌安装GCP_shell_python命令",
+  "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
+  "source": "@site/docs/Google_Knowledge/谷歌shell安装python环境.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/GCP_shell_python",
+  "permalink": "/docs/Google_Knowledge/GCP_shell_python",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/谷歌shell安装python环境.md",
+  "tags": [
+    {
+      "label": "shell",
+      "permalink": "/docs/tags/shell"
+    },
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "label": "apache-beam",
+      "permalink": "/docs/tags/apache-beam"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "GCP_shell_python",
+    "title": "谷歌安装GCP_shell_python命令",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "tags": [
+      "shell",
+      "python",
+      "apache-beam",
+      "google cloud",
+      "linux"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gcs command line",
+    "permalink": "/docs/Google_Knowledge/doc2"
+  },
+  "next": {
+    "title": "word2vec详解",
+    "permalink": "/docs/Machine_Learning/elmo"
+  }
+}

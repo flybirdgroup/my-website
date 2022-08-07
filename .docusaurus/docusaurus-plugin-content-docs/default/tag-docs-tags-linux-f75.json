@@ -2,61 +2,91 @@
   "label": "linux",
   "permalink": "/docs/tags/linux",
   "allTagsPath": "/docs/tags",
-  "count": 9,
+  "count": 14,
   "items": [
     {
-      "id": "GoogleCloudStorage",
+      "id": "Google_Knowledge/GoogleCloudStorage",
       "title": "存储文件然后共享-谷歌云快速入门(二)",
       "description": "link to 使用GKE(Google Kubernetes Engine)部署容器化应用 -谷歌云快速入门(三)",
-      "permalink": "/docs/GoogleCloudStorage"
+      "permalink": "/docs/Google_Knowledge/GoogleCloudStorage"
     },
     {
-      "id": "VisionAPI",
+      "id": "Machine_Learning/VisionAPI",
       "title": "对图片进行标签检测-谷歌云快速入门(五)",
       "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
-      "permalink": "/docs/VisionAPI"
+      "permalink": "/docs/Machine_Learning/VisionAPI"
     },
     {
-      "id": "GCP_shell_python",
+      "id": "Google_Knowledge/GCP_shell_python",
       "title": "谷歌安装GCP_shell_python命令",
       "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
-      "permalink": "/docs/GCP_shell_python"
+      "permalink": "/docs/Google_Knowledge/GCP_shell_python"
     },
     {
-      "id": "BIGQUERY3",
+      "id": "Google_Knowledge/BIGQUERY3",
       "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
       "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
-      "permalink": "/docs/BIGQUERY3"
+      "permalink": "/docs/Google_Knowledge/BIGQUERY3"
     },
     {
-      "id": "Kubernetes",
-      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
+      "id": "CICD/Kubernetes",
+      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用",
       "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
-      "permalink": "/docs/Kubernetes"
+      "permalink": "/docs/CICD/Kubernetes"
     },
     {
-      "id": "TensorFlow",
+      "id": "Big_Data/Airflow1",
+      "title": "通过Composer使用Airflow运行一个workflow",
+      "description": "创建Composer by setting up Composer environment >> create a workflow py file >>  创建Dataproc >> Runs Hadoop job on Dataproc >> deletes Dataproc cluster",
+      "permalink": "/docs/Big_Data/Airflow1"
+    },
+    {
+      "id": "Machine_Learning/TensorFlow",
       "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
       "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
-      "permalink": "/docs/TensorFlow"
+      "permalink": "/docs/Machine_Learning/TensorFlow"
     },
     {
-      "id": "GoogleAppEngine",
+      "id": "Website_Blog/WordPress",
+      "title": "云上快速搭建WordPress网站",
+      "description": "我们将会在这台服务器上搭建和部署LAMP环境，然后安装WordPress网站，最后向大家展示如何在WordPress网站使用微博挂件和网站统计平台",
+      "permalink": "/docs/Website_Blog/WordPress"
+    },
+    {
+      "id": "Google_Knowledge/GoogleAppEngine",
       "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
       "description": "构建一个显示一条简短消息的 App Engine 小应用。",
-      "permalink": "/docs/GoogleAppEngine"
+      "permalink": "/docs/Google_Knowledge/GoogleAppEngine"
     },
     {
-      "id": "docker",
+      "id": "CICD/docker/docker",
       "title": "Container Registry 快速入门快速入门",
       "description": "使用 Cloud Shell 配置 gcloud 并运行一个容器映像。",
-      "permalink": "/docs/docker"
+      "permalink": "/docs/CICD/docker/"
     },
     {
-      "id": "createlinux",
-      "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
-      "description": "author: 招晓贤",
-      "permalink": "/docs/createlinux"
+      "id": "Google_Knowledge/createlinux",
+      "title": "Create Virtual Linux by Google 创建linux虚拟机",
+      "description": "Learn how to build linux system in Google Cloud Platform Docusaurus 2 alpha.",
+      "permalink": "/docs/Google_Knowledge/createlinux"
+    },
+    {
+      "id": "Google_Knowledge/createlinux",
+      "title": "Create Virtual Linux by Google 创建linux虚拟机",
+      "description": "Learn how to build linux system in Google Cloud Platform Docusaurus 2 alpha.",
+      "permalink": "/docs/Google_Knowledge/createlinux"
+    },
+    {
+      "id": "Google_Knowledge/linux",
+      "title": "linux高级用法",
+      "description": "linux一些好玩的命令比如循环,重定向",
+      "permalink": "/docs/Google_Knowledge/linux"
+    },
+    {
+      "id": "Google_Knowledge/bigquery1",
+      "title": "python读取bigquery",
+      "description": "安装客户端",
+      "permalink": "/docs/Google_Knowledge/bigquery1"
     }
   ]
 }

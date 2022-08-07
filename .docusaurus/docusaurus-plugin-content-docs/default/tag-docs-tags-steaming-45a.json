@@ -1,0 +1,26 @@
+{
+  "label": "steaming",
+  "permalink": "/docs/tags/steaming",
+  "allTagsPath": "/docs/tags",
+  "count": 3,
+  "items": [
+    {
+      "id": "Big_Data/dataflow1",
+      "title": "dataflow简单入门-流数据输入到bigquery",
+      "description": "概念: streaming 就是 动态的意思, streaming data就是动态数据, job status is streaming 就是这个作业是一直持续的",
+      "permalink": "/docs/Big_Data/dataflow1"
+    },
+    {
+      "id": "Big_Data/dataflow2",
+      "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+      "description": "1. 在本地创建来测试运行",
+      "permalink": "/docs/Big_Data/dataflow2"
+    },
+    {
+      "id": "Big_Data/dataflow4",
+      "title": "dataflow简单入门-apache beam 基本概念",
+      "description": "1 Pipeline 管道",
+      "permalink": "/docs/Big_Data/dataflow4"
+    }
+  ]
+}

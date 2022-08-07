@@ -1,0 +1,28 @@
+{
+  "unversionedId": "Google_Knowledge/doc2",
+  "id": "Google_Knowledge/doc2",
+  "title": "GCP常用命令",
+  "description": "Cloud Storage常用命令",
+  "source": "@site/docs/Google_Knowledge/doc2.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/doc2",
+  "permalink": "/docs/Google_Knowledge/doc2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/doc2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "doc2",
+    "title": "GCP常用命令",
+    "sidebar_label": "gcs command line"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+    "permalink": "/docs/Google_Knowledge/createlinux"
+  },
+  "next": {
+    "title": "谷歌安装GCP_shell_python命令",
+    "permalink": "/docs/Google_Knowledge/GCP_shell_python"
+  }
+}

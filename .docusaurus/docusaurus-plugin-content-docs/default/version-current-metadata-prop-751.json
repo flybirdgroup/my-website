@@ -81,94 +81,409 @@
         "href": "/docs/category/tutorial---extras"
       },
       {
-        "type": "link",
-        "label": "push镜像到自己的dockerhub",
-        "href": "/docs/dockerhub",
-        "docId": "dockerhub"
+        "type": "category",
+        "label": "Big_Data",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "dataflow简单入门-apache beam 基本概念",
+            "href": "/docs/Big_Data/dataflow4",
+            "docId": "Big_Data/dataflow4"
+          },
+          {
+            "type": "link",
+            "label": "dataflow简单入门-使用apache_beam创建,运行作业",
+            "href": "/docs/Big_Data/dataflow2",
+            "docId": "Big_Data/dataflow2"
+          },
+          {
+            "type": "link",
+            "label": "dataflow简单入门-流数据输入到bigquery",
+            "href": "/docs/Big_Data/dataflow1",
+            "docId": "Big_Data/dataflow1"
+          },
+          {
+            "type": "link",
+            "label": "5分钟在谷歌云上使用dataflow来运行job",
+            "href": "/docs/Big_Data/dataflow",
+            "docId": "Big_Data/dataflow"
+          },
+          {
+            "type": "link",
+            "label": "dataflow sql",
+            "href": "/docs/Big_Data/dataflow3",
+            "docId": "Big_Data/dataflow3"
+          },
+          {
+            "type": "link",
+            "label": "mac安装spark+jupyter+annocade+pycharm配置",
+            "href": "/docs/Big_Data/spark1",
+            "docId": "Big_Data/spark1"
+          },
+          {
+            "type": "link",
+            "label": "dataproc--dataproc+GCS+Bigquery+Pyspark",
+            "href": "/docs/Big_Data/dataproc4",
+            "docId": "Big_Data/dataproc4"
+          },
+          {
+            "type": "link",
+            "label": "dataproc参数化跑spark和读写avro文件",
+            "href": "/docs/Big_Data/dataproc5",
+            "docId": "Big_Data/dataproc5"
+          },
+          {
+            "type": "link",
+            "label": "dataproc自动伸缩和运行spark job",
+            "href": "/docs/Big_Data/dataproc2",
+            "docId": "Big_Data/dataproc2"
+          },
+          {
+            "type": "link",
+            "label": "dataproc--跑pyspark(从big query获取数据)",
+            "href": "/docs/Big_Data/dataproc3",
+            "docId": "Big_Data/dataproc3"
+          },
+          {
+            "type": "link",
+            "label": "5分钟在谷歌云上使用Dataproc运行Apache Spark集群",
+            "href": "/docs/Big_Data/dataproc1",
+            "docId": "Big_Data/dataproc1"
+          },
+          {
+            "type": "link",
+            "label": "用yaml配置文件传参数给pyspark,然后再dataproc运行",
+            "href": "/docs/Big_Data/dataproc6",
+            "docId": "Big_Data/dataproc6"
+          },
+          {
+            "type": "link",
+            "label": "通过Composer使用Airflow运行一个workflow",
+            "href": "/docs/Big_Data/Airflow1",
+            "docId": "Big_Data/Airflow1"
+          }
+        ]
       },
       {
-        "type": "link",
-        "label": "从Dockerhub拉取镜像并且使用命令运行",
-        "href": "/docs/dockerhub_2",
-        "docId": "dockerhub_2"
+        "type": "category",
+        "label": "CICD",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "yaml语法学习",
+            "href": "/docs/CICD/yaml1",
+            "docId": "CICD/yaml1"
+          },
+          {
+            "type": "link",
+            "label": "关于nginx和port知识总结",
+            "href": "/docs/CICD/nginx",
+            "docId": "CICD/nginx"
+          },
+          {
+            "type": "link",
+            "label": "使用terraform基本语法和创建vm",
+            "href": "/docs/CICD/terraform1",
+            "docId": "CICD/terraform1"
+          },
+          {
+            "type": "link",
+            "label": "设立Jenkins在GKE上",
+            "href": "/docs/CICD/jenkins",
+            "docId": "CICD/jenkins"
+          },
+          {
+            "type": "link",
+            "label": "使用GKE(Google Kubernetes Engine)部署容器化应用",
+            "href": "/docs/CICD/Kubernetes",
+            "docId": "CICD/Kubernetes"
+          },
+          {
+            "type": "category",
+            "label": "Container Registry 快速入门快速入门",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "push镜像到自己的dockerhub",
+                "href": "/docs/CICD/docker/dockerhub",
+                "docId": "CICD/docker/dockerhub"
+              },
+              {
+                "type": "link",
+                "label": "从Dockerhub拉取镜像并且使用命令运行",
+                "href": "/docs/CICD/docker/dockerhub_2",
+                "docId": "CICD/docker/dockerhub_2"
+              }
+            ],
+            "href": "/docs/CICD/docker/"
+          }
+        ]
       },
       {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/BIGQUERY",
-        "docId": "BIGQUERY"
+        "type": "category",
+        "label": "Google_Knowledge",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+            "href": "/docs/Google_Knowledge/createlinux",
+            "docId": "Google_Knowledge/createlinux"
+          },
+          {
+            "type": "link",
+            "label": "App Engine 使用快速入门",
+            "href": "/docs/Google_Knowledge/App",
+            "docId": "Google_Knowledge/App"
+          },
+          {
+            "type": "link",
+            "label": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+            "href": "/docs/Google_Knowledge/BigQueryStorageAPI",
+            "docId": "Google_Knowledge/BigQueryStorageAPI"
+          },
+          {
+            "type": "link",
+            "label": "轻松上传超过100M的文件至GitHub",
+            "href": "/docs/Google_Knowledge/git_big_file",
+            "docId": "Google_Knowledge/git_big_file"
+          },
+          {
+            "type": "link",
+            "label": "5分钟在谷歌云上创建jupyterhub",
+            "href": "/docs/Google_Knowledge/jupyterhub_GCP",
+            "docId": "Google_Knowledge/jupyterhub_GCP"
+          },
+          {
+            "type": "link",
+            "label": "Bigquery中sql语句常用命令",
+            "href": "/docs/Google_Knowledge/bq_sql",
+            "docId": "Google_Knowledge/bq_sql"
+          },
+          {
+            "type": "link",
+            "label": "谷歌常用命令",
+            "href": "/docs/Google_Knowledge/gcp_command_line",
+            "docId": "Google_Knowledge/gcp_command_line"
+          },
+          {
+            "type": "link",
+            "label": "google script + excel+ google drive",
+            "href": "/docs/Google_Knowledge/bigquery_presentation",
+            "docId": "Google_Knowledge/bigquery_presentation"
+          },
+          {
+            "type": "link",
+            "label": "把avro文件放到bigquery",
+            "href": "/docs/Google_Knowledge/avro",
+            "docId": "Google_Knowledge/avro"
+          },
+          {
+            "type": "link",
+            "label": "把avro文件放到bigquery",
+            "href": "/docs/Google_Knowledge/avro",
+            "docId": "Google_Knowledge/avro"
+          },
+          {
+            "type": "link",
+            "label": "Bigquery常用命令",
+            "href": "/docs/Google_Knowledge/bq_command_line",
+            "docId": "Google_Knowledge/bq_command_line"
+          },
+          {
+            "type": "link",
+            "label": "GCS 读写 by python",
+            "href": "/docs/Google_Knowledge/GCS1",
+            "docId": "Google_Knowledge/GCS1"
+          },
+          {
+            "type": "link",
+            "label": "gsutil常用命令",
+            "href": "/docs/Google_Knowledge/gsutil",
+            "docId": "Google_Knowledge/gsutil"
+          },
+          {
+            "type": "link",
+            "label": "linux高级用法",
+            "href": "/docs/Google_Knowledge/linux",
+            "docId": "Google_Knowledge/linux"
+          },
+          {
+            "type": "link",
+            "label": "python读取bigquery",
+            "href": "/docs/Google_Knowledge/bigquery1",
+            "docId": "Google_Knowledge/bigquery1"
+          },
+          {
+            "type": "link",
+            "label": "Bigquery 快速入门(一)--创建数据集并且查询",
+            "href": "/docs/Google_Knowledge/BIGQUERY",
+            "docId": "Google_Knowledge/BIGQUERY"
+          },
+          {
+            "type": "link",
+            "label": "Bigquery (二)--在BigQuery中创建授权视图",
+            "href": "/docs/Google_Knowledge/BIGQUERY2",
+            "docId": "Google_Knowledge/BIGQUERY2"
+          },
+          {
+            "type": "link",
+            "label": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+            "href": "/docs/Google_Knowledge/BIGQUERY3",
+            "docId": "Google_Knowledge/BIGQUERY3"
+          },
+          {
+            "type": "link",
+            "label": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
+            "href": "/docs/Google_Knowledge/GoogleAppEngine",
+            "docId": "Google_Knowledge/GoogleAppEngine"
+          },
+          {
+            "type": "link",
+            "label": "存储文件然后共享-谷歌云快速入门(二)",
+            "href": "/docs/Google_Knowledge/GoogleCloudStorage",
+            "docId": "Google_Knowledge/GoogleCloudStorage"
+          },
+          {
+            "type": "link",
+            "label": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+            "href": "/docs/Google_Knowledge/createlinux",
+            "docId": "Google_Knowledge/createlinux"
+          },
+          {
+            "type": "link",
+            "label": "gcs command line",
+            "href": "/docs/Google_Knowledge/doc2",
+            "docId": "Google_Knowledge/doc2"
+          },
+          {
+            "type": "link",
+            "label": "谷歌安装GCP_shell_python命令",
+            "href": "/docs/Google_Knowledge/GCP_shell_python",
+            "docId": "Google_Knowledge/GCP_shell_python"
+          }
+        ]
       },
       {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/BIGQUERY2",
-        "docId": "BIGQUERY2"
+        "type": "category",
+        "label": "Machine_Learning",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "word2vec详解",
+            "href": "/docs/Machine_Learning/elmo",
+            "docId": "Machine_Learning/elmo"
+          },
+          {
+            "type": "link",
+            "label": "textCNN卷积神经网络分类",
+            "href": "/docs/Machine_Learning/welcome",
+            "docId": "Machine_Learning/welcome"
+          },
+          {
+            "type": "link",
+            "label": "双向注意力LSTM神经网络",
+            "href": "/docs/Machine_Learning/Attention",
+            "docId": "Machine_Learning/Attention"
+          },
+          {
+            "type": "link",
+            "label": "tf_serving部署+遇到的问题",
+            "href": "/docs/Machine_Learning/tf_serving",
+            "docId": "Machine_Learning/tf_serving"
+          },
+          {
+            "type": "link",
+            "label": "机器学习-- 4 TF基本步骤",
+            "href": "/docs/Machine_Learning/ML4",
+            "docId": "Machine_Learning/ML4"
+          },
+          {
+            "type": "link",
+            "label": "机器学习-- 3 梯度下降法",
+            "href": "/docs/Machine_Learning/ML3",
+            "docId": "Machine_Learning/ML3"
+          },
+          {
+            "type": "link",
+            "label": "机器学习-- 1 训练与损失",
+            "href": "/docs/Machine_Learning/ML1",
+            "docId": "Machine_Learning/ML1"
+          },
+          {
+            "type": "link",
+            "label": "机器学习-- 2 降低损失",
+            "href": "/docs/Machine_Learning/ML2",
+            "docId": "Machine_Learning/ML2"
+          },
+          {
+            "type": "link",
+            "label": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+            "href": "/docs/Machine_Learning/TensorFlow",
+            "docId": "Machine_Learning/TensorFlow"
+          },
+          {
+            "type": "link",
+            "label": "对图片进行标签检测-谷歌云快速入门(五)",
+            "href": "/docs/Machine_Learning/VisionAPI",
+            "docId": "Machine_Learning/VisionAPI"
+          },
+          {
+            "type": "link",
+            "label": "人工智能项目分享",
+            "href": "/docs/Machine_Learning/projects",
+            "docId": "Machine_Learning/projects"
+          }
+        ]
       },
       {
-        "type": "link",
-        "label": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
-        "href": "/docs/BIGQUERY3",
-        "docId": "BIGQUERY3"
+        "type": "category",
+        "label": "Python",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "快速按照工具包",
+            "href": "/docs/Python/douban",
+            "docId": "Python/douban"
+          },
+          {
+            "type": "link",
+            "label": "用faker模拟数据+随机种子",
+            "href": "/docs/Python/faker",
+            "docId": "Python/faker"
+          },
+          {
+            "type": "link",
+            "label": "使用webscrapper爬取信息",
+            "href": "/docs/Python/webscrapper",
+            "docId": "Python/webscrapper"
+          }
+        ]
       },
       {
-        "type": "link",
-        "label": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
-        "href": "/docs/GoogleAppEngine",
-        "docId": "GoogleAppEngine"
-      },
-      {
-        "type": "link",
-        "label": "存储文件然后共享-谷歌云快速入门(二)",
-        "href": "/docs/GoogleCloudStorage",
-        "docId": "GoogleCloudStorage"
-      },
-      {
-        "type": "link",
-        "label": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
-        "href": "/docs/Kubernetes",
-        "docId": "Kubernetes"
-      },
-      {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/ML4",
-        "docId": "ML4"
-      },
-      {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/ML3",
-        "docId": "ML3"
-      },
-      {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/ML1",
-        "docId": "ML1"
-      },
-      {
-        "type": "link",
-        "label": "Style Guide",
-        "href": "/docs/ML2",
-        "docId": "ML2"
-      },
-      {
-        "type": "link",
-        "label": "训练 TensorFlow 模型-谷歌云快速入门(四)",
-        "href": "/docs/TensorFlow",
-        "docId": "TensorFlow"
-      },
-      {
-        "type": "link",
-        "label": "对图片进行标签检测-谷歌云快速入门(五)",
-        "href": "/docs/VisionAPI",
-        "docId": "VisionAPI"
-      },
-      {
-        "type": "link",
-        "label": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
-        "href": "/docs/createlinux",
-        "docId": "createlinux"
+        "type": "category",
+        "label": "Website_Blog",
+        "collapsible": true,
+        "collapsed": true,
+        "items": [
+          {
+            "type": "link",
+            "label": "云上快速搭建WordPress网站",
+            "href": "/docs/Website_Blog/WordPress",
+            "docId": "Website_Blog/WordPress"
+          }
+        ]
       },
       {
         "type": "link",
@@ -178,65 +493,137 @@
       },
       {
         "type": "link",
-        "label": "gcs command line",
-        "href": "/docs/doc2",
-        "docId": "doc2"
-      },
-      {
-        "type": "link",
-        "label": "This is Document Number 3",
-        "href": "/docs/doc3",
-        "docId": "doc3"
-      },
-      {
-        "type": "link",
-        "label": "Container Registry 快速入门快速入门",
-        "href": "/docs/docker",
-        "docId": "docker"
-      },
-      {
-        "type": "link",
         "label": "Powered by MDX",
         "href": "/docs/mdx",
         "docId": "mdx"
-      },
-      {
-        "type": "link",
-        "label": "人工智能项目分享",
-        "href": "/docs/projects",
-        "docId": "projects"
-      },
-      {
-        "type": "link",
-        "label": "谷歌安装GCP_shell_python命令",
-        "href": "/docs/GCP_shell_python",
-        "docId": "GCP_shell_python"
       }
     ]
   },
   "docs": {
-    "BIGQUERY": {
-      "id": "BIGQUERY",
-      "title": "Bigquery 快速入门(一)--创建数据集并且查询",
-      "description": "to link to Bigquery (二)--在BigQuery中创建授权视图",
+    "Big_Data/Airflow1": {
+      "id": "Big_Data/Airflow1",
+      "title": "通过Composer使用Airflow运行一个workflow",
+      "description": "创建Composer by setting up Composer environment >> create a workflow py file >>  创建Dataproc >> Runs Hadoop job on Dataproc >> deletes Dataproc cluster",
       "sidebar": "tutorialSidebar"
     },
-    "BIGQUERY2": {
-      "id": "BIGQUERY2",
-      "title": "Bigquery (二)--在BigQuery中创建授权视图",
-      "description": "1 创建数据集并对其应用访问权限控制",
+    "Big_Data/dataflow": {
+      "id": "Big_Data/dataflow",
+      "title": "5分钟在谷歌云上使用dataflow来运行job",
+      "description": "png",
       "sidebar": "tutorialSidebar"
     },
-    "BIGQUERY3": {
-      "id": "BIGQUERY3",
-      "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
-      "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
+    "Big_Data/dataflow1": {
+      "id": "Big_Data/dataflow1",
+      "title": "dataflow简单入门-流数据输入到bigquery",
+      "description": "概念: streaming 就是 动态的意思, streaming data就是动态数据, job status is streaming 就是这个作业是一直持续的",
       "sidebar": "tutorialSidebar"
     },
-    "createlinux": {
-      "id": "createlinux",
-      "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
-      "description": "author: 招晓贤",
+    "Big_Data/dataflow2": {
+      "id": "Big_Data/dataflow2",
+      "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+      "description": "1. 在本地创建来测试运行",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataflow3": {
+      "id": "Big_Data/dataflow3",
+      "title": "dataflow sql",
+      "description": "总体流程",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataflow4": {
+      "id": "Big_Data/dataflow4",
+      "title": "dataflow简单入门-apache beam 基本概念",
+      "description": "1 Pipeline 管道",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc1": {
+      "id": "Big_Data/dataproc1",
+      "title": "5分钟在谷歌云上使用Dataproc运行Apache Spark集群",
+      "description": "png",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc2": {
+      "id": "Big_Data/dataproc2",
+      "title": "dataproc自动伸缩和运行spark job",
+      "description": "我们运用数据分析的时候,通常都是脏数据,我们需要清洗才能被使用.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc3": {
+      "id": "Big_Data/dataproc3",
+      "title": "dataproc--跑pyspark(从big query获取数据)",
+      "description": "流程很简单",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc4": {
+      "id": "Big_Data/dataproc4",
+      "title": "dataproc--dataproc+GCS+Bigquery+Pyspark",
+      "description": "流程很简单",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc5": {
+      "id": "Big_Data/dataproc5",
+      "title": "dataproc参数化跑spark和读写avro文件",
+      "description": "1. spark 初始化,因为要读取成dataframe或者sql形式,导入SparkSession",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/dataproc6": {
+      "id": "Big_Data/dataproc6",
+      "title": "用yaml配置文件传参数给pyspark,然后再dataproc运行",
+      "description": "首先我们要学Yaml语法:",
+      "sidebar": "tutorialSidebar"
+    },
+    "Big_Data/spark1": {
+      "id": "Big_Data/spark1",
+      "title": "mac安装spark+jupyter+annocade+pycharm配置",
+      "description": "Spark的安装大多比较麻烦，而Mac安装Spark非常简单，本文分三部分内容。",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/docker/docker": {
+      "id": "CICD/docker/docker",
+      "title": "Container Registry 快速入门快速入门",
+      "description": "使用 Cloud Shell 配置 gcloud 并运行一个容器映像。",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/docker/dockerhub": {
+      "id": "CICD/docker/dockerhub",
+      "title": "push镜像到自己的dockerhub",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/docker/dockerhub_2": {
+      "id": "CICD/docker/dockerhub_2",
+      "title": "从Dockerhub拉取镜像并且使用命令运行",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/jenkins": {
+      "id": "CICD/jenkins",
+      "title": "设立Jenkins在GKE上",
+      "description": "设置zone和下载代码",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/Kubernetes": {
+      "id": "CICD/Kubernetes",
+      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用",
+      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/nginx": {
+      "id": "CICD/nginx",
+      "title": "关于nginx和port知识总结",
+      "description": "port是service服务的端口",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/terraform1": {
+      "id": "CICD/terraform1",
+      "title": "使用terraform基本语法和创建vm",
+      "description": "我觉得terraform的基本语法就是字典对象式语法.",
+      "sidebar": "tutorialSidebar"
+    },
+    "CICD/yaml1": {
+      "id": "CICD/yaml1",
+      "title": "yaml语法学习",
+      "description": "首先我们要学Yaml语法:",
       "sidebar": "tutorialSidebar"
     },
     "doc1": {
@@ -245,52 +632,130 @@
       "description": "You can write content using GitHub-flavored Markdown syntax.",
       "sidebar": "tutorialSidebar"
     },
-    "doc2": {
-      "id": "doc2",
+    "Google_Knowledge/App": {
+      "id": "Google_Knowledge/App",
+      "title": "App Engine 使用快速入门",
+      "description": "step1: 创建自己的独立项目",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/avro": {
+      "id": "Google_Knowledge/avro",
+      "title": "把avro文件放到bigquery",
+      "description": "去到控制台,确认storage和bigquery API已启用",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/BIGQUERY": {
+      "id": "Google_Knowledge/BIGQUERY",
+      "title": "Bigquery 快速入门(一)--创建数据集并且查询",
+      "description": "to link to Bigquery (二)--在BigQuery中创建授权视图",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/bigquery_presentation": {
+      "id": "Google_Knowledge/bigquery_presentation",
+      "title": "google script + excel+ google drive",
+      "description": "我们的目标是创建一个脚本可以读取数据,导出成表格形式而且制作出图标,最后做成一个ppt幻灯演示,看起来是不是很牛,这些动作只需要写个脚本就能完成啦",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/bigquery1": {
+      "id": "Google_Knowledge/bigquery1",
+      "title": "python读取bigquery",
+      "description": "安装客户端",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/BIGQUERY2": {
+      "id": "Google_Knowledge/BIGQUERY2",
+      "title": "Bigquery (二)--在BigQuery中创建授权视图",
+      "description": "1 创建数据集并对其应用访问权限控制",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/BIGQUERY3": {
+      "id": "Google_Knowledge/BIGQUERY3",
+      "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+      "description": "link to google 原文 参看(https://cloud.google.com/bigquery/docs/bigquery-storage-python-pandas))",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/BigQueryStorageAPI": {
+      "id": "Google_Knowledge/BigQueryStorageAPI",
+      "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/bq_command_line": {
+      "id": "Google_Knowledge/bq_command_line",
+      "title": "Bigquery常用命令",
+      "description": "查看数据集的schema 使用bq show 数据集",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/bq_sql": {
+      "id": "Google_Knowledge/bq_sql",
+      "title": "Bigquery中sql语句常用命令",
+      "description": "连接数据库",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/createlinux": {
+      "id": "Google_Knowledge/createlinux",
+      "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
+      "description": "author: 招晓贤",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/doc2": {
+      "id": "Google_Knowledge/doc2",
       "title": "GCP常用命令",
       "description": "Cloud Storage常用命令",
       "sidebar": "tutorialSidebar"
     },
-    "doc3": {
-      "id": "doc3",
-      "title": "This is Document Number 3",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ac euismod odio, eu consequat dui. Nullam molestie consectetur risus id imperdiet. Proin sodales ornare turpis, non mollis massa ultricies id. Nam at nibh scelerisque, feugiat ante non, dapibus tortor. Vivamus volutpat diam quis tellus elementum bibendum. Praesent semper gravida velit quis aliquam. Etiam in cursus neque. Nam lectus ligula, malesuada et mauris a, bibendum faucibus mi. Phasellus ut interdum felis. Phasellus in odio pulvinar, porttitor urna eget, fringilla lectus. Aliquam sollicitudin est eros. Mauris consectetur quam vitae mauris interdum hendrerit. Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "Google_Knowledge/gcp_command_line": {
+      "id": "Google_Knowledge/gcp_command_line",
+      "title": "谷歌常用命令",
+      "description": "列出活动账号名称",
       "sidebar": "tutorialSidebar"
     },
-    "docker": {
-      "id": "docker",
-      "title": "Container Registry 快速入门快速入门",
-      "description": "使用 Cloud Shell 配置 gcloud 并运行一个容器映像。",
-      "sidebar": "tutorialSidebar"
-    },
-    "dockerhub": {
-      "id": "dockerhub",
-      "title": "push镜像到自己的dockerhub",
-      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
-      "sidebar": "tutorialSidebar"
-    },
-    "dockerhub_2": {
-      "id": "dockerhub_2",
-      "title": "从Dockerhub拉取镜像并且使用命令运行",
-      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
-      "sidebar": "tutorialSidebar"
-    },
-    "GCP_shell_python": {
-      "id": "GCP_shell_python",
+    "Google_Knowledge/GCP_shell_python": {
+      "id": "Google_Knowledge/GCP_shell_python",
       "title": "谷歌安装GCP_shell_python命令",
       "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
       "sidebar": "tutorialSidebar"
     },
-    "GoogleAppEngine": {
-      "id": "GoogleAppEngine",
+    "Google_Knowledge/GCS1": {
+      "id": "Google_Knowledge/GCS1",
+      "title": "GCS 读写 by python",
+      "description": "我们可以使用谷歌的Python客户端API将文件上传到谷歌云存储。",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/git_big_file": {
+      "id": "Google_Knowledge/git_big_file",
+      "title": "轻松上传超过100M的文件至GitHub",
+      "description": "GitHub有一个限制，不能上传超过100M的文件。想要上传超过100M的文件，就需要借助Git LFS",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/GoogleAppEngine": {
+      "id": "Google_Knowledge/GoogleAppEngine",
       "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
       "description": "构建一个显示一条简短消息的 App Engine 小应用。",
       "sidebar": "tutorialSidebar"
     },
-    "GoogleCloudStorage": {
-      "id": "GoogleCloudStorage",
+    "Google_Knowledge/GoogleCloudStorage": {
+      "id": "Google_Knowledge/GoogleCloudStorage",
       "title": "存储文件然后共享-谷歌云快速入门(二)",
       "description": "link to 使用GKE(Google Kubernetes Engine)部署容器化应用 -谷歌云快速入门(三)",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/gsutil": {
+      "id": "Google_Knowledge/gsutil",
+      "title": "gsutil常用命令",
+      "description": "gsutil命令快速入门",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/jupyterhub_GCP": {
+      "id": "Google_Knowledge/jupyterhub_GCP",
+      "title": "5分钟在谷歌云上创建jupyterhub",
+      "description": "这个是常规操作,所以就不解释了",
+      "sidebar": "tutorialSidebar"
+    },
+    "Google_Knowledge/linux": {
+      "id": "Google_Knowledge/linux",
+      "title": "linux高级用法",
+      "description": "linux一些好玩的命令比如循环,重定向",
       "sidebar": "tutorialSidebar"
     },
     "intro": {
@@ -299,10 +764,70 @@
       "description": "Let's discover Docusaurus in less than 5 minutes.",
       "sidebar": "tutorialSidebar"
     },
-    "Kubernetes": {
-      "id": "Kubernetes",
-      "title": "使用GKE(Google Kubernetes Engine)部署容器化应用 谷歌云快速入门(三)",
-      "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
+    "Machine_Learning/Attention": {
+      "id": "Machine_Learning/Attention",
+      "title": "双向注意力LSTM神经网络",
+      "description": "原理讲解",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/elmo": {
+      "id": "Machine_Learning/elmo",
+      "title": "word2vec详解",
+      "description": "什么是Word2Vec和Embeddings？",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/ML1": {
+      "id": "Machine_Learning/ML1",
+      "title": "机器学习-- 1 训练与损失",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/ML2": {
+      "id": "Machine_Learning/ML2",
+      "title": "机器学习-- 2 降低损失",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/ML3": {
+      "id": "Machine_Learning/ML3",
+      "title": "机器学习-- 3 梯度下降法",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/ML4": {
+      "id": "Machine_Learning/ML4",
+      "title": "机器学习-- 4 TF基本步骤",
+      "description": "官方文档信息",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/projects": {
+      "id": "Machine_Learning/projects",
+      "title": "人工智能项目分享",
+      "description": "NLP方向",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/TensorFlow": {
+      "id": "Machine_Learning/TensorFlow",
+      "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
+      "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/tf_serving": {
+      "id": "Machine_Learning/tf_serving",
+      "title": "tf_serving部署+遇到的问题",
+      "description": "参考过的博客",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/VisionAPI": {
+      "id": "Machine_Learning/VisionAPI",
+      "title": "对图片进行标签检测-谷歌云快速入门(五)",
+      "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
+      "sidebar": "tutorialSidebar"
+    },
+    "Machine_Learning/welcome": {
+      "id": "Machine_Learning/welcome",
+      "title": "textCNN卷积神经网络分类",
+      "description": "云润人工智能部门《NLP零基础快速上手教程》课程资料 by 算法工程师:招晓贤",
       "sidebar": "tutorialSidebar"
     },
     "mdx": {
@@ -311,40 +836,22 @@
       "description": "You can write JSX and use React components within your Markdown thanks to MDX.",
       "sidebar": "tutorialSidebar"
     },
-    "ML1": {
-      "id": "ML1",
-      "title": "机器学习-- 1 训练与损失",
-      "description": "官方文档信息",
+    "Python/douban": {
+      "id": "Python/douban",
+      "title": "快速按照工具包",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
       "sidebar": "tutorialSidebar"
     },
-    "ML2": {
-      "id": "ML2",
-      "title": "机器学习-- 2 降低损失",
-      "description": "官方文档信息",
+    "Python/faker": {
+      "id": "Python/faker",
+      "title": "用faker模拟数据+随机种子",
+      "description": "Pretty printing has been turned OFF",
       "sidebar": "tutorialSidebar"
     },
-    "ML3": {
-      "id": "ML3",
-      "title": "机器学习-- 3 梯度下降法",
-      "description": "官方文档信息",
-      "sidebar": "tutorialSidebar"
-    },
-    "ML4": {
-      "id": "ML4",
-      "title": "机器学习-- 4 TF基本步骤",
-      "description": "官方文档信息",
-      "sidebar": "tutorialSidebar"
-    },
-    "projects": {
-      "id": "projects",
-      "title": "人工智能项目分享",
-      "description": "NLP方向",
-      "sidebar": "tutorialSidebar"
-    },
-    "TensorFlow": {
-      "id": "TensorFlow",
-      "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
-      "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
+    "Python/webscrapper": {
+      "id": "Python/webscrapper",
+      "title": "使用webscrapper爬取信息",
+      "description": "step 1: 比如在一个网站搜索纸尿裤, 我们在google chrome的更多工具中点击开发者工具",
       "sidebar": "tutorialSidebar"
     },
     "tutorial-basics/congratulations": {
@@ -395,10 +902,10 @@
       "description": "Let's translate docs/intro.md to French.",
       "sidebar": "tutorialSidebar"
     },
-    "VisionAPI": {
-      "id": "VisionAPI",
-      "title": "对图片进行标签检测-谷歌云快速入门(五)",
-      "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
+    "Website_Blog/WordPress": {
+      "id": "Website_Blog/WordPress",
+      "title": "云上快速搭建WordPress网站",
+      "description": "我们将会在这台服务器上搭建和部署LAMP环境，然后安装WordPress网站，最后向大家展示如何在WordPress网站使用微博挂件和网站统计平台",
       "sidebar": "tutorialSidebar"
     }
   }

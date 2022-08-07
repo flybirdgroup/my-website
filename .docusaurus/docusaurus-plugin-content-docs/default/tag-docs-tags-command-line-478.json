@@ -1,0 +1,38 @@
+{
+  "label": "command line",
+  "permalink": "/docs/tags/command-line",
+  "allTagsPath": "/docs/tags",
+  "count": 5,
+  "items": [
+    {
+      "id": "Google_Knowledge/gcp_command_line",
+      "title": "谷歌常用命令",
+      "description": "列出活动账号名称",
+      "permalink": "/docs/Google_Knowledge/gcp_command_line"
+    },
+    {
+      "id": "Google_Knowledge/bq_command_line",
+      "title": "Bigquery常用命令",
+      "description": "查看数据集的schema 使用bq show 数据集",
+      "permalink": "/docs/Google_Knowledge/bq_command_line"
+    },
+    {
+      "id": "Google_Knowledge/bq_sql",
+      "title": "Bigquery中sql语句常用命令",
+      "description": "连接数据库",
+      "permalink": "/docs/Google_Knowledge/bq_sql"
+    },
+    {
+      "id": "Google_Knowledge/linux",
+      "title": "linux高级用法",
+      "description": "linux一些好玩的命令比如循环,重定向",
+      "permalink": "/docs/Google_Knowledge/linux"
+    },
+    {
+      "id": "Google_Knowledge/bigquery1",
+      "title": "python读取bigquery",
+      "description": "安装客户端",
+      "permalink": "/docs/Google_Knowledge/bigquery1"
+    }
+  ]
+}

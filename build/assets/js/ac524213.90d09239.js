@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9015],{45900:e=>{e.exports=JSON.parse('{"label":"google cloud","permalink":"/blog/tags/google-cloud","allTagsPath":"/blog/tags","count":13}')}}]);

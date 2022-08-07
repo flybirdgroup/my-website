@@ -18,11 +18,11 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "Create Virtual Linux by Google 创建linux虚拟机-谷歌云快速入门(一)",
-    "permalink": "/docs/createlinux"
+    "title": "云上快速搭建WordPress网站",
+    "permalink": "/docs/Website_Blog/WordPress"
   },
   "next": {
-    "title": "gcs command line",
-    "permalink": "/docs/doc2"
+    "title": "Powered by MDX",
+    "permalink": "/docs/mdx"
   }
 }

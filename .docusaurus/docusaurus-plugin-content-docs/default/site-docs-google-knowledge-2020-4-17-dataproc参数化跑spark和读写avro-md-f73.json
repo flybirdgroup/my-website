@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/dataproc5",
+  "id": "Google_Knowledge/dataproc5",
+  "title": "dataproc参数化跑spark和读写avro文件",
+  "description": "1. spark 初始化,因为要读取成dataframe或者sql形式,导入SparkSession",
+  "source": "@site/docs/Google_Knowledge/2020-4-17-dataproc参数化跑spark和读写avro.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/dataproc5",
+  "permalink": "/docs/Google_Knowledge/dataproc5",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-17-dataproc参数化跑spark和读写avro.md",
+  "tags": [
+    {
+      "label": "dataproc",
+      "permalink": "/docs/tags/dataproc"
+    },
+    {
+      "label": "GCP",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "Spark",
+      "permalink": "/docs/tags/spark"
+    },
+    {
+      "label": "Hadoop",
+      "permalink": "/docs/tags/hadoop"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dataproc5",
+    "title": "dataproc参数化跑spark和读写avro文件",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataproc",
+      "GCP",
+      "Spark",
+      "Hadoop"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "dataproc--dataproc+GCS+Bigquery+Pyspark",
+    "permalink": "/docs/Google_Knowledge/dataproc4"
+  },
+  "next": {
+    "title": "dataproc自动伸缩和运行spark job",
+    "permalink": "/docs/Google_Knowledge/dataproc2"
+  }
+}

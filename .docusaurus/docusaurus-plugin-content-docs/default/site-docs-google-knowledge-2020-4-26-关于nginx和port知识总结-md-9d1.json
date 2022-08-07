@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Google_Knowledge/nginx",
+  "id": "Google_Knowledge/nginx",
+  "title": "关于nginx和port知识总结",
+  "description": "port是service服务的端口",
+  "source": "@site/docs/Google_Knowledge/2020-4-26关于nginx和port知识总结.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/nginx",
+  "permalink": "/docs/Google_Knowledge/nginx",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-26关于nginx和port知识总结.md",
+  "tags": [
+    {
+      "label": "nginx",
+      "permalink": "/docs/tags/nginx"
+    },
+    {
+      "label": "port",
+      "permalink": "/docs/tags/port"
+    },
+    {
+      "label": "target",
+      "permalink": "/docs/tags/target"
+    },
+    {
+      "label": "load-balance",
+      "permalink": "/docs/tags/load-balance"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "nginx",
+    "title": "关于nginx和port知识总结",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "nginx",
+      "port",
+      "target",
+      "load-balance"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "把avro文件放到bigquery",
+    "permalink": "/docs/Google_Knowledge/avro"
+  },
+  "next": {
+    "title": "使用terraform基本语法和创建vm",
+    "permalink": "/docs/Google_Knowledge/terraform1"
+  }
+}

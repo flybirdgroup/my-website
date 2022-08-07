@@ -1,0 +1,54 @@
+{
+  "unversionedId": "CICD/yaml1",
+  "id": "CICD/yaml1",
+  "title": "yaml语法学习",
+  "description": "首先我们要学Yaml语法:",
+  "source": "@site/docs/CICD/2020-4-18-yaml语法学习.md",
+  "sourceDirName": "CICD",
+  "slug": "/CICD/yaml1",
+  "permalink": "/docs/CICD/yaml1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/CICD/2020-4-18-yaml语法学习.md",
+  "tags": [
+    {
+      "label": "dataproc",
+      "permalink": "/docs/tags/dataproc"
+    },
+    {
+      "label": "GCP",
+      "permalink": "/docs/tags/gcp"
+    },
+    {
+      "label": "Spark",
+      "permalink": "/docs/tags/spark"
+    },
+    {
+      "label": "Hadoop",
+      "permalink": "/docs/tags/hadoop"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "yaml1",
+    "title": "yaml语法学习",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataproc",
+      "GCP",
+      "Spark",
+      "Hadoop"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "通过Composer使用Airflow运行一个workflow",
+    "permalink": "/docs/Big_Data/Airflow1"
+  },
+  "next": {
+    "title": "关于nginx和port知识总结",
+    "permalink": "/docs/CICD/nginx"
+  }
+}

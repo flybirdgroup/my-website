@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Python/douban",
+  "id": "Python/douban",
+  "title": "快速按照工具包",
+  "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+  "source": "@site/docs/Python/2020-3-31-douban.md",
+  "sourceDirName": "Python",
+  "slug": "/Python/douban",
+  "permalink": "/docs/Python/douban",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Python/2020-3-31-douban.md",
+  "tags": [
+    {
+      "label": "python",
+      "permalink": "/docs/tags/python"
+    },
+    {
+      "label": "hello",
+      "permalink": "/docs/tags/hello"
+    },
+    {
+      "label": "docusaurus",
+      "permalink": "/docs/tags/docusaurus"
+    },
+    {
+      "label": "google cloud",
+      "permalink": "/docs/tags/google-cloud"
+    },
+    {
+      "label": "docker",
+      "permalink": "/docs/tags/docker"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "douban",
+    "title": "快速按照工具包",
+    "author": "招晓贤",
+    "author_title": "AI engine @ Facebook",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "python",
+      "hello",
+      "docusaurus",
+      "google cloud",
+      "docker"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "人工智能项目分享",
+    "permalink": "/docs/Machine_Learning/projects"
+  },
+  "next": {
+    "title": "用faker模拟数据+随机种子",
+    "permalink": "/docs/Python/faker"
+  }
+}

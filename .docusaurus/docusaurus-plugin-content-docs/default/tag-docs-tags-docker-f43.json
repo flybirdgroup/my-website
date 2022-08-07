@@ -2,19 +2,43 @@
   "label": "docker",
   "permalink": "/docs/tags/docker",
   "allTagsPath": "/docs/tags",
-  "count": 2,
+  "count": 6,
   "items": [
     {
-      "id": "dockerhub_2",
+      "id": "CICD/docker/dockerhub_2",
       "title": "从Dockerhub拉取镜像并且使用命令运行",
       "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
-      "permalink": "/docs/dockerhub_2"
+      "permalink": "/docs/CICD/docker/dockerhub_2"
     },
     {
-      "id": "dockerhub",
+      "id": "Python/douban",
+      "title": "快速按照工具包",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+      "permalink": "/docs/Python/douban"
+    },
+    {
+      "id": "Google_Knowledge/App",
+      "title": "App Engine 使用快速入门",
+      "description": "step1: 创建自己的独立项目",
+      "permalink": "/docs/Google_Knowledge/App"
+    },
+    {
+      "id": "Google_Knowledge/BigQueryStorageAPI",
+      "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+      "permalink": "/docs/Google_Knowledge/BigQueryStorageAPI"
+    },
+    {
+      "id": "CICD/docker/dockerhub",
       "title": "push镜像到自己的dockerhub",
       "description": "link to 谷歌云快速入门(二) 存储文件然后共享",
-      "permalink": "/docs/dockerhub"
+      "permalink": "/docs/CICD/docker/dockerhub"
+    },
+    {
+      "id": "Machine_Learning/tf_serving",
+      "title": "tf_serving部署+遇到的问题",
+      "description": "参考过的博客",
+      "permalink": "/docs/Machine_Learning/tf_serving"
     }
   ]
 }

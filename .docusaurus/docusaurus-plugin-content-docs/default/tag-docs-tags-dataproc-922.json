@@ -1,0 +1,68 @@
+{
+  "label": "dataproc",
+  "permalink": "/docs/tags/dataproc",
+  "allTagsPath": "/docs/tags",
+  "count": 10,
+  "items": [
+    {
+      "id": "Big_Data/dataflow",
+      "title": "5分钟在谷歌云上使用dataflow来运行job",
+      "description": "png",
+      "permalink": "/docs/Big_Data/dataflow"
+    },
+    {
+      "id": "Big_Data/dataproc1",
+      "title": "5分钟在谷歌云上使用Dataproc运行Apache Spark集群",
+      "description": "png",
+      "permalink": "/docs/Big_Data/dataproc1"
+    },
+    {
+      "id": "Google_Knowledge/avro",
+      "title": "读取avro文件的schema",
+      "description": "首先安装包",
+      "permalink": "/docs/Google_Knowledge/avro"
+    },
+    {
+      "id": "Google_Knowledge/avro",
+      "title": "读取avro文件的schema",
+      "description": "首先安装包",
+      "permalink": "/docs/Google_Knowledge/avro"
+    },
+    {
+      "id": "Big_Data/dataproc6",
+      "title": "用yaml配置文件传参数给pyspark,然后再dataproc运行",
+      "description": "首先我们要学Yaml语法:",
+      "permalink": "/docs/Big_Data/dataproc6"
+    },
+    {
+      "id": "Big_Data/dataproc3",
+      "title": "dataproc--跑pyspark(从big query获取数据)",
+      "description": "流程很简单",
+      "permalink": "/docs/Big_Data/dataproc3"
+    },
+    {
+      "id": "Big_Data/dataproc4",
+      "title": "dataproc--dataproc+GCS+Bigquery+Pyspark",
+      "description": "流程很简单",
+      "permalink": "/docs/Big_Data/dataproc4"
+    },
+    {
+      "id": "Big_Data/dataproc5",
+      "title": "dataproc参数化跑spark和读写avro文件",
+      "description": "1. spark 初始化,因为要读取成dataframe或者sql形式,导入SparkSession",
+      "permalink": "/docs/Big_Data/dataproc5"
+    },
+    {
+      "id": "Big_Data/dataproc2",
+      "title": "dataproc自动伸缩和运行spark job",
+      "description": "我们运用数据分析的时候,通常都是脏数据,我们需要清洗才能被使用.",
+      "permalink": "/docs/Big_Data/dataproc2"
+    },
+    {
+      "id": "CICD/yaml1",
+      "title": "yaml语法学习",
+      "description": "首先我们要学Yaml语法:",
+      "permalink": "/docs/CICD/yaml1"
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "label": "汇丰",
+  "permalink": "/docs/tags/汇丰",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Python/faker",
+      "title": "用faker模拟数据+随机种子",
+      "description": "Pretty printing has been turned OFF",
+      "permalink": "/docs/Python/faker"
+    }
+  ]
+}

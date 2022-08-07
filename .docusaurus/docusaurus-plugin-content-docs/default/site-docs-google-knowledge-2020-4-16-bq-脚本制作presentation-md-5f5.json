@@ -1,0 +1,49 @@
+{
+  "unversionedId": "Google_Knowledge/bigquery_presentation",
+  "id": "Google_Knowledge/bigquery_presentation",
+  "title": "google script + excel+ google drive",
+  "description": "我们的目标是创建一个脚本可以读取数据,导出成表格形式而且制作出图标,最后做成一个ppt幻灯演示,看起来是不是很牛,这些动作只需要写个脚本就能完成啦",
+  "source": "@site/docs/Google_Knowledge/2020-4-16-bq_脚本制作presentation.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/bigquery_presentation",
+  "permalink": "/docs/Google_Knowledge/bigquery_presentation",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-16-bq_脚本制作presentation.md",
+  "tags": [
+    {
+      "label": "script",
+      "permalink": "/docs/tags/script"
+    },
+    {
+      "label": "excel",
+      "permalink": "/docs/tags/excel"
+    },
+    {
+      "label": "google",
+      "permalink": "/docs/tags/google"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "bigquery_presentation",
+    "title": "google script + excel+ google drive",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "script",
+      "excel",
+      "google"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "谷歌常用命令",
+    "permalink": "/docs/Google_Knowledge/gcp_command_line"
+  },
+  "next": {
+    "title": "把avro文件放到bigquery",
+    "permalink": "/docs/Google_Knowledge/avro"
+  }
+}

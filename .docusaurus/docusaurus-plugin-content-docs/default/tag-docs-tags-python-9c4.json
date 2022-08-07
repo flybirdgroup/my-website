@@ -2,13 +2,31 @@
   "label": "python",
   "permalink": "/docs/tags/python",
   "allTagsPath": "/docs/tags",
-  "count": 1,
+  "count": 4,
   "items": [
     {
-      "id": "GCP_shell_python",
+      "id": "Google_Knowledge/GCP_shell_python",
       "title": "谷歌安装GCP_shell_python命令",
       "description": "Install virtualenv version 13.1.0 or above if it is not installed already.",
-      "permalink": "/docs/GCP_shell_python"
+      "permalink": "/docs/Google_Knowledge/GCP_shell_python"
+    },
+    {
+      "id": "Python/douban",
+      "title": "快速按照工具包",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+      "permalink": "/docs/Python/douban"
+    },
+    {
+      "id": "Google_Knowledge/App",
+      "title": "App Engine 使用快速入门",
+      "description": "step1: 创建自己的独立项目",
+      "permalink": "/docs/Google_Knowledge/App"
+    },
+    {
+      "id": "Google_Knowledge/BigQueryStorageAPI",
+      "title": "Install the BigQuery Python client library version 1.9.0 or higher and the BigQuery Storage API Python client library.",
+      "description": "安装google-cloud-bigquery and google-cloud-bigquery-storage packages.",
+      "permalink": "/docs/Google_Knowledge/BigQueryStorageAPI"
     }
   ]
 }

@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Google_Knowledge/BIGQUERY2",
+  "id": "Google_Knowledge/BIGQUERY2",
+  "title": "Bigquery (二)--在BigQuery中创建授权视图",
+  "description": "1 创建数据集并对其应用访问权限控制",
+  "source": "@site/docs/Google_Knowledge/BIGQUERY2.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/BIGQUERY2",
+  "permalink": "/docs/Google_Knowledge/BIGQUERY2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/BIGQUERY2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "BIGQUERY2",
+    "title": "Bigquery (二)--在BigQuery中创建授权视图"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Bigquery 快速入门(一)--创建数据集并且查询",
+    "permalink": "/docs/Google_Knowledge/BIGQUERY"
+  },
+  "next": {
+    "title": "使用 BigQuery Storage API 将 BigQuery 数据下载到 Pandas",
+    "permalink": "/docs/Google_Knowledge/BIGQUERY3"
+  }
+}

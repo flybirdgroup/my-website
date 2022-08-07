@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Machine_Learning/ML1",
+  "id": "Machine_Learning/ML1",
+  "title": "机器学习-- 1 训练与损失",
+  "description": "官方文档信息",
+  "source": "@site/docs/Machine_Learning/ML_训练与损失.md",
+  "sourceDirName": "Machine_Learning",
+  "slug": "/Machine_Learning/ML1",
+  "permalink": "/docs/Machine_Learning/ML1",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Machine_Learning/ML_训练与损失.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "ML1",
+    "title": "机器学习-- 1 训练与损失"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "机器学习-- 3 梯度下降法",
+    "permalink": "/docs/Machine_Learning/ML3"
+  },
+  "next": {
+    "title": "机器学习-- 2 降低损失",
+    "permalink": "/docs/Machine_Learning/ML2"
+  }
+}

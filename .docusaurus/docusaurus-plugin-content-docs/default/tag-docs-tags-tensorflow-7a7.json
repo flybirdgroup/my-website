@@ -5,22 +5,22 @@
   "count": 3,
   "items": [
     {
-      "id": "VisionAPI",
+      "id": "Machine_Learning/VisionAPI",
       "title": "对图片进行标签检测-谷歌云快速入门(五)",
       "description": "将图片上传到 Cloud Storage，并对 Cloud Vision API 服务发出标签检测请求。",
-      "permalink": "/docs/VisionAPI"
+      "permalink": "/docs/Machine_Learning/VisionAPI"
     },
     {
-      "id": "TensorFlow",
+      "id": "Machine_Learning/TensorFlow",
       "title": "训练 TensorFlow 模型-谷歌云快速入门(四)",
       "description": "在本地训练、在云端使用单个工作器训练，以及在云端进行分布式训练。",
-      "permalink": "/docs/TensorFlow"
+      "permalink": "/docs/Machine_Learning/TensorFlow"
     },
     {
-      "id": "GoogleAppEngine",
+      "id": "Google_Knowledge/GoogleAppEngine",
       "title": "在 App Engine 上部署 Python 应用-谷歌云快速入门(六)",
       "description": "构建一个显示一条简短消息的 App Engine 小应用。",
-      "permalink": "/docs/GoogleAppEngine"
+      "permalink": "/docs/Google_Knowledge/GoogleAppEngine"
     }
   ]
 }

@@ -11,23 +11,108 @@
           "mainDocId": "intro",
           "docs": [
             {
-              "id": "BIGQUERY",
-              "path": "/docs/BIGQUERY",
+              "id": "Big_Data/Airflow1",
+              "path": "/docs/Big_Data/Airflow1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "BIGQUERY2",
-              "path": "/docs/BIGQUERY2",
+              "id": "Big_Data/dataflow",
+              "path": "/docs/Big_Data/dataflow",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "BIGQUERY3",
-              "path": "/docs/BIGQUERY3",
+              "id": "Big_Data/dataflow1",
+              "path": "/docs/Big_Data/dataflow1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "createlinux",
-              "path": "/docs/createlinux",
+              "id": "Big_Data/dataflow2",
+              "path": "/docs/Big_Data/dataflow2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataflow3",
+              "path": "/docs/Big_Data/dataflow3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataflow4",
+              "path": "/docs/Big_Data/dataflow4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc1",
+              "path": "/docs/Big_Data/dataproc1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc2",
+              "path": "/docs/Big_Data/dataproc2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc3",
+              "path": "/docs/Big_Data/dataproc3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc4",
+              "path": "/docs/Big_Data/dataproc4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc5",
+              "path": "/docs/Big_Data/dataproc5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/dataproc6",
+              "path": "/docs/Big_Data/dataproc6",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Big_Data/spark1",
+              "path": "/docs/Big_Data/spark1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/docker/docker",
+              "path": "/docs/CICD/docker/",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/docker/dockerhub",
+              "path": "/docs/CICD/docker/dockerhub",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/docker/dockerhub_2",
+              "path": "/docs/CICD/docker/dockerhub_2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/jenkins",
+              "path": "/docs/CICD/jenkins",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/Kubernetes",
+              "path": "/docs/CICD/Kubernetes",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/nginx",
+              "path": "/docs/CICD/nginx",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/terraform1",
+              "path": "/docs/CICD/terraform1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "CICD/yaml1",
+              "path": "/docs/CICD/yaml1",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -36,43 +121,118 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "doc2",
-              "path": "/docs/doc2",
+              "id": "Google_Knowledge/App",
+              "path": "/docs/Google_Knowledge/App",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "doc3",
-              "path": "/docs/doc3",
+              "id": "Google_Knowledge/avro",
+              "path": "/docs/Google_Knowledge/avro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "docker",
-              "path": "/docs/docker",
+              "id": "Google_Knowledge/avro",
+              "path": "/docs/Google_Knowledge/avro",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dockerhub",
-              "path": "/docs/dockerhub",
+              "id": "Google_Knowledge/BIGQUERY",
+              "path": "/docs/Google_Knowledge/BIGQUERY",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "dockerhub_2",
-              "path": "/docs/dockerhub_2",
+              "id": "Google_Knowledge/bigquery_presentation",
+              "path": "/docs/Google_Knowledge/bigquery_presentation",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "GCP_shell_python",
-              "path": "/docs/GCP_shell_python",
+              "id": "Google_Knowledge/bigquery1",
+              "path": "/docs/Google_Knowledge/bigquery1",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "GoogleAppEngine",
-              "path": "/docs/GoogleAppEngine",
+              "id": "Google_Knowledge/BIGQUERY2",
+              "path": "/docs/Google_Knowledge/BIGQUERY2",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "GoogleCloudStorage",
-              "path": "/docs/GoogleCloudStorage",
+              "id": "Google_Knowledge/BIGQUERY3",
+              "path": "/docs/Google_Knowledge/BIGQUERY3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/BigQueryStorageAPI",
+              "path": "/docs/Google_Knowledge/BigQueryStorageAPI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/bq_command_line",
+              "path": "/docs/Google_Knowledge/bq_command_line",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/bq_sql",
+              "path": "/docs/Google_Knowledge/bq_sql",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/createlinux",
+              "path": "/docs/Google_Knowledge/createlinux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/createlinux",
+              "path": "/docs/Google_Knowledge/createlinux",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/doc2",
+              "path": "/docs/Google_Knowledge/doc2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/gcp_command_line",
+              "path": "/docs/Google_Knowledge/gcp_command_line",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/GCP_shell_python",
+              "path": "/docs/Google_Knowledge/GCP_shell_python",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/GCS1",
+              "path": "/docs/Google_Knowledge/GCS1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/git_big_file",
+              "path": "/docs/Google_Knowledge/git_big_file",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/GoogleAppEngine",
+              "path": "/docs/Google_Knowledge/GoogleAppEngine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/GoogleCloudStorage",
+              "path": "/docs/Google_Knowledge/GoogleCloudStorage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/gsutil",
+              "path": "/docs/Google_Knowledge/gsutil",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/jupyterhub_GCP",
+              "path": "/docs/Google_Knowledge/jupyterhub_GCP",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Google_Knowledge/linux",
+              "path": "/docs/Google_Knowledge/linux",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -81,8 +241,58 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Kubernetes",
-              "path": "/docs/Kubernetes",
+              "id": "Machine_Learning/Attention",
+              "path": "/docs/Machine_Learning/Attention",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/elmo",
+              "path": "/docs/Machine_Learning/elmo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/ML1",
+              "path": "/docs/Machine_Learning/ML1",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/ML2",
+              "path": "/docs/Machine_Learning/ML2",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/ML3",
+              "path": "/docs/Machine_Learning/ML3",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/ML4",
+              "path": "/docs/Machine_Learning/ML4",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/projects",
+              "path": "/docs/Machine_Learning/projects",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/TensorFlow",
+              "path": "/docs/Machine_Learning/TensorFlow",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/tf_serving",
+              "path": "/docs/Machine_Learning/tf_serving",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/VisionAPI",
+              "path": "/docs/Machine_Learning/VisionAPI",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Machine_Learning/welcome",
+              "path": "/docs/Machine_Learning/welcome",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -91,33 +301,18 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ML1",
-              "path": "/docs/ML1",
+              "id": "Python/douban",
+              "path": "/docs/Python/douban",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ML2",
-              "path": "/docs/ML2",
+              "id": "Python/faker",
+              "path": "/docs/Python/faker",
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "ML3",
-              "path": "/docs/ML3",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "ML4",
-              "path": "/docs/ML4",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "projects",
-              "path": "/docs/projects",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "TensorFlow",
-              "path": "/docs/TensorFlow",
+              "id": "Python/webscrapper",
+              "path": "/docs/Python/webscrapper",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -161,8 +356,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "VisionAPI",
-              "path": "/docs/VisionAPI",
+              "id": "Website_Blog/WordPress",
+              "path": "/docs/Website_Blog/WordPress",
               "sidebar": "tutorialSidebar"
             },
             {

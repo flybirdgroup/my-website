@@ -1,0 +1,14 @@
+{
+  "label": "jupyter",
+  "permalink": "/docs/tags/jupyter",
+  "allTagsPath": "/docs/tags",
+  "count": 1,
+  "items": [
+    {
+      "id": "Big_Data/spark1",
+      "title": "mac安装spark+jupyter+annocade+pycharm配置",
+      "description": "Spark的安装大多比较麻烦，而Mac安装Spark非常简单，本文分三部分内容。",
+      "permalink": "/docs/Big_Data/spark1"
+    }
+  ]
+}

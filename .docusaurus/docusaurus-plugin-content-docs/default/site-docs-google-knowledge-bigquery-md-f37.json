@@ -1,0 +1,27 @@
+{
+  "unversionedId": "Google_Knowledge/BIGQUERY",
+  "id": "Google_Knowledge/BIGQUERY",
+  "title": "Bigquery 快速入门(一)--创建数据集并且查询",
+  "description": "to link to Bigquery (二)--在BigQuery中创建授权视图",
+  "source": "@site/docs/Google_Knowledge/BIGQUERY.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/BIGQUERY",
+  "permalink": "/docs/Google_Knowledge/BIGQUERY",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/BIGQUERY.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "BIGQUERY",
+    "title": "Bigquery 快速入门(一)--创建数据集并且查询"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "python读取bigquery",
+    "permalink": "/docs/Google_Knowledge/bigquery1"
+  },
+  "next": {
+    "title": "Bigquery (二)--在BigQuery中创建授权视图",
+    "permalink": "/docs/Google_Knowledge/BIGQUERY2"
+  }
+}

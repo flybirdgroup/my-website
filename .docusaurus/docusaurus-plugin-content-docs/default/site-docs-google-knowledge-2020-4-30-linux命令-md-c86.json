@@ -1,0 +1,59 @@
+{
+  "unversionedId": "Google_Knowledge/linux",
+  "id": "Google_Knowledge/linux",
+  "title": "linux高级用法",
+  "description": "linux一些好玩的命令比如循环,重定向",
+  "source": "@site/docs/Google_Knowledge/2020-4-30-linux命令.md",
+  "sourceDirName": "Google_Knowledge",
+  "slug": "/Google_Knowledge/linux",
+  "permalink": "/docs/Google_Knowledge/linux",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Google_Knowledge/2020-4-30-linux命令.md",
+  "tags": [
+    {
+      "label": "linux",
+      "permalink": "/docs/tags/linux"
+    },
+    {
+      "label": "command line",
+      "permalink": "/docs/tags/command-line"
+    },
+    {
+      "label": "cat",
+      "permalink": "/docs/tags/cat"
+    },
+    {
+      "label": "<<EOF",
+      "permalink": "/docs/tags/eof"
+    },
+    {
+      "label": "loop",
+      "permalink": "/docs/tags/loop"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "linux",
+    "title": "linux高级用法",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "linux",
+      "command line",
+      "cat",
+      "<<EOF",
+      "loop"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "gsutil常用命令",
+    "permalink": "/docs/Google_Knowledge/gsutil"
+  },
+  "next": {
+    "title": "python读取bigquery",
+    "permalink": "/docs/Google_Knowledge/bigquery1"
+  }
+}

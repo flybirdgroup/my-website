@@ -1,0 +1,54 @@
+{
+  "unversionedId": "Big_Data/dataflow4",
+  "id": "Big_Data/dataflow4",
+  "title": "dataflow简单入门-apache beam 基本概念",
+  "description": "1 Pipeline 管道",
+  "source": "@site/docs/Big_Data/2020-4-11-dataflow-apache beam基本概念.md",
+  "sourceDirName": "Big_Data",
+  "slug": "/Big_Data/dataflow4",
+  "permalink": "/docs/Big_Data/dataflow4",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/Big_Data/2020-4-11-dataflow-apache beam基本概念.md",
+  "tags": [
+    {
+      "label": "dataflow",
+      "permalink": "/docs/tags/dataflow"
+    },
+    {
+      "label": "bigquery",
+      "permalink": "/docs/tags/bigquery"
+    },
+    {
+      "label": "subpub",
+      "permalink": "/docs/tags/subpub"
+    },
+    {
+      "label": "steaming",
+      "permalink": "/docs/tags/steaming"
+    }
+  ],
+  "version": "current",
+  "frontMatter": {
+    "id": "dataflow4",
+    "title": "dataflow简单入门-apache beam 基本概念",
+    "author": "招晓贤",
+    "author_title": "AI Engineer",
+    "author_url": "https://github.com/flybirdgroup",
+    "author_image_url": "https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1615738601,1434436036&fm=26&gp=0.jpg",
+    "tags": [
+      "dataflow",
+      "bigquery",
+      "subpub",
+      "steaming"
+    ]
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translate your site",
+    "permalink": "/docs/tutorial-extras/translate-your-site"
+  },
+  "next": {
+    "title": "dataflow简单入门-使用apache_beam创建,运行作业",
+    "permalink": "/docs/Big_Data/dataflow2"
+  }
+}
