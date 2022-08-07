@@ -6,7 +6,7 @@
 export default {
   "title": "My Site",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
+  "url": "https://xn--gmqr38alogxt2a.net",
   "baseUrl": "/",
   "onBrokenLinks": "ignore",
   "onBrokenMarkdownLinks": "warn",
@@ -317,10 +317,11 @@ export default {
       ]
     },
     "algolia": {
-      "appId": "DY94SLNW5S",
-      "apiKey": "91edec25ef86008bbe7905275cabcf64",
-      "indexName": "dev_michael_zhao",
+      "appId": "EGM5A6YTSJ",
+      "apiKey": "399f91471e04a54322de5ff9d4b09de0",
+      "indexName": "netlify_54b1c296-b9ff-4046-b017-1529cc14a41e*",
       "contextualSearch": true,
+      "externalUrlRegex": "https://xn--gmqr38alogxt2a.net",
       "searchParameters": {},
       "searchPagePath": "search"
     },

@@ -128,12 +128,12 @@ const config = {
       },
       algolia: {
         // The application ID provided by Algolia
-        appId: 'DY94SLNW5S',
+        appId: 'EGM5A6YTSJ',
   
         // Public API key: it is safe to commit it
-        apiKey: '91edec25ef86008bbe7905275cabcf64',
+        apiKey: '399f91471e04a54322de5ff9d4b09de0',
   
-        indexName: 'dev_michael_zhao',
+        indexName: 'netlify_54b1c296-b9ff-4046-b017-1529cc14a41e*',
   
         // Optional: see doc section below
         contextualSearch: true,
